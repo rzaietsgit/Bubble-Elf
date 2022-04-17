@@ -1,0 +1,62 @@
+
+fx_fireTip.png
+size: 319,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001_00000
+  rotate: false
+  xy: 184, 258
+  size: 111, 59
+  orig: 180, 110
+  offset: 20, 6
+  index: -1
+images/001_00001
+  rotate: true
+  xy: 184, 104
+  size: 152, 64
+  orig: 180, 110
+  offset: 4, 6
+  index: -1
+images/001_00002
+  rotate: false
+  xy: 2, 179
+  size: 178, 66
+  orig: 180, 110
+  offset: 2, 6
+  index: -1
+images/001_00003
+  rotate: false
+  xy: 2, 247
+  size: 180, 70
+  orig: 180, 110
+  offset: 0, 8
+  index: -1
+images/001_00004
+  rotate: false
+  xy: 2, 116
+  size: 176, 61
+  orig: 180, 110
+  offset: 4, 14
+  index: -1
+images/001_00005
+  rotate: false
+  xy: 2, 58
+  size: 164, 56
+  orig: 180, 110
+  offset: 11, 15
+  index: -1
+images/001_00006
+  rotate: false
+  xy: 2, 2
+  size: 160, 54
+  orig: 180, 110
+  offset: 15, 15
+  index: -1
+images/001_00007
+  rotate: true
+  xy: 250, 108
+  size: 148, 58
+  orig: 180, 110
+  offset: 20, 16
+  index: -1

@@ -1,0 +1,16 @@
+KEY,,
+Key,name,remark
+1,Desert,remark
+2,Greenwood,remark
+3,Ice Citadel,remark
+4,Mysterious land,remark
+5,Volcanic,remark
+6,Edogawa,remark
+7,Machinery City,remark
+8,Folk House,remark
+9,Original Snow,remark
+10,Maple Forest,remark
+11,mapName11,remark
+12,mapName12,remark
+13,mapName13,remark
+14,mapName14,remark

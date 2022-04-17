@@ -1,0 +1,41 @@
+编号,分类,参与活动id,原价金币,当前金币,折扣,原价,当前价格,umeng,标题,标题,描述,描述,说明文字ID,描述
+id,itype,iconID,oldgold,gold,sale,oldmoney,money,umeng,title,titleen,remark,remarken,number,描述
+1,1,1,500,500,0,25,25,Buydaoju1,小 体 力,Slives,回 复 5 点 体 力,Increase 5 lives,5,描述
+2,1,1,500,350,7,25,20,Buydaoju2,小 体 力,Slives,回 复 5 点 体 力,Increase 5 lives,5,描述
+3,1,1,500,250,5,25,15,Buydaoju3,小 体 力,Slives,回 复 5 点 体 力,Increase 5 lives,5,描述
+4,2,1,1500,1350,9,75,65,Buydaoju2,中 体 力,Mlives,回 复 15 点 体 力,Increase 15 lives,15,描述
+5,2,1,1500,1200,8,75,60,Buydaoju2,中 体 力,Mlives,回 复 15 点 体 力,Increase 15 lives,15,描述
+6,2,1,1500,900,6,75,45,Buydaoju2,中 体 力,Mlives,回 复 15 点 体 力,Increase 15 lives,15,描述
+7,3,1,2500,2000,8,125,100,Buydaoju3,大 体 力,Blives,回 复 30 点 体 力,Increase 30 lives,30,描述
+8,3,1,2500,1750,7,125,85,Buydaoju3,大 体 力,Blives,回 复 30 点 体 力,Increase 30 lives,30,描述
+9,3,1,2500,1250,5,125,60,Buydaoju3,大 体 力,Blives,回 复 30 点 体 力,Increase 30 lives,30,描述
+10,4,4,6000,5400,9,300,270,Buydaoju4,瞄 准 器,Aiming,让 你 瞄 的 更 准,Aiming more accurate,3,描述
+11,4,4,6000,4800,8,300,240,Buydaoju4,瞄 准 器,Aiming,让 你 瞄 的 更 准,Aiming more accurate,3,描述
+12,4,4,6000,3600,6,300,180,Buydaoju4,瞄 准 器,Aiming,让 你 瞄 的 更 准,Aiming more accurate,3,描述
+13,5,5,6000,4800,8,300,240,Buydaoju5,换 球 器,ChangeBall,多 一 个 可 选 的 发 射 球,one more shoots to choose,3,描述
+14,5,5,6000,4200,7,300,210,Buydaoju5,换 球 器,ChangeBall,多 一 个 可 选 的 发 射 球,one more shoots to choose,3,描述
+15,5,5,6000,3600,6,300,180,Buydaoju5,换 球 器,ChangeBall,多 一 个 可 选 的 发 射 球,one more shoots to choose,3,描述
+16,6,6,0,0,9,520,520,Buydaoju6,泡 泡 仪,ADDBubble,增 加 1 0 个 发 射 泡 泡,Increase 10 bubbles,3,描述
+17,6,6,0,0,7,520,380,Buydaoju6,泡 泡 仪,ADDBubble,增 加 1 0 个 发 射 泡 泡,Increase 10 bubbles,3,描述
+18,6,6,0,0,6,520,320,Buydaoju6,泡 泡 仪,ADDBubble,增 加 1 0 个 发 射 泡 泡,Increase 10 bubbles,3,描述
+19,7,7,0,0,8,230,185,Buydaoju7,炸 弹 泡 泡,Boom,消 除 目 标 周 围 的 障 碍,Clear blocks around the target,3,描述
+20,7,7,0,0,7,230,160,Buydaoju7,炸 弹 泡 泡,Boom,消 除 目 标 周 围 的 障 碍,Clear blocks around the target,3,描述
+21,7,7,0,0,6,230,140,Buydaoju7,炸 弹 泡 泡,Boom,消 除 目 标 周 围 的 障 碍,Clear blocks around the target,3,描述
+22,8,8,0,0,8,280,225,Buydaoju8,魔 法 箭 枝,Magic Arrow,清 除 路 径 上 的 全 部 泡 泡,Clear all in it's way,3,描述
+23,8,8,0,0,7,280,195,Buydaoju8,魔 法 箭 枝,Magic Arrow,清 除 路 径 上 的 全 部 泡 泡,Clear all in it's way,3,描述
+24,8,8,0,0,6,280,170,Buydaoju8,魔 法 箭 枝,Magic Arrow,清 除 路 径 上 的 全 部 泡 泡,Clear all in it's way,3,描述
+25,9,9,0,0,8,230,185,Buydaoju9,魔 法 精 灵,Magic Elf,消 除 同 色 的 泡 泡,Clear Same bubbles,3,描述
+26,9,9,0,0,7,230,160,Buydaoju9,魔 法 精 灵,Magic Elf,消 除 同 色 的 泡 泡,Clear Same bubbles,3,描述
+27,9,9,0,0,6,230,140,Buydaoju9,魔 法 精 灵,Magic Elf,消 除 同 色 的 泡 泡,Clear Same bubbles,3,描述
+28,10,2,0,0,8,500,400,Buydaoju10,1 0 0 0 0 金 币,10000 Coins,,Coins,10000,描述
+29,10,2,0,0,7,500,350,Buydaoju10,1 0 0 0 0 金 币,10000 Coins,,Coins,10000,描述
+30,10,2,0,0,5,500,250,Buydaoju10,1 0 0 0 0 金 币,10000 Coins,,Coins,10000,描述
+31,11,2,0,0,6,1500,900,Buydaoju11,3 0 0 0 0 金 币,30000 Coins,,Coins,30000,描述
+32,11,2,0,0,5,1500,750,Buydaoju11,3 0 0 0 0 金 币,30000 Coins,,Coins,30000,描述
+33,11,2,0,0,4,1500,600,Buydaoju11,3 0 0 0 0 金 币,30000 Coins,,Coins,30000,描述
+34,4,4,2000,1400,7,300,270,Buydaoju4,瞄 准 器,Aiming,让 你 瞄 的 更 准,Aiming more accurate,3,描述
+35,5,5,2000,1400,7,300,240,Buydaoju5,换 球 器,ChangeBall,多 一 个 可 选 的 发 射 球,one more shoots to choose,3,描述
+36,6,6,3500,2800,8,300,210,Buydaoju5,换 球 器,ChangeBall,多 一 个 可 选 的 发 射 球,one more shoots to choose,3,描述
+37,7,7,0,0,0,230,230,Buydaoju7,炸 弹 泡 泡,Boom,消 除 目 标 周 围 的 障 碍,Clear blocks around the target,3,描述
+38,8,8,0,0,0,280,280,Buydaoju8,魔 法 箭 枝,Magic Arrow,清 除 路 径 上 的 全 部 泡 泡,Clear all in it's way,3,描述
+39,9,9,0,0,0,230,230,Buydaoju9,魔 法 精 灵,Magic Elf,消 除 同 色 的 泡 泡,Clear Same bubbles,3,描述

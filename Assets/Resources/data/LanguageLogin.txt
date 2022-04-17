@@ -1,0 +1,5 @@
+Key|简体中文|英文|法|德|日|韩|西|葡|俄|泰|描述
+Key|Simplified_Chinese|English|Simplified_French|Simplified_German|Simplified_Japanese|Simplified_Korean|Simplified_Spanish|Simplified_Portuguese|Simplified_Russian|Simplified_Thai|
+Login_Play|开始|Play|Démarrer|Start|スタート|시작|Inicio|Iniciar|Начать|เริ่ม|登录界面的Play按钮
+Login_FaceBookConn|连接|Connect|Lier|Verbinden|接続|연결|Conecta|Conectar|Соединение|เชื่อมต่อ|登录界面的FaceBook登录按钮
+LoginUIFaceBookConAwardText|免费|Free|Gratuit|Gratis|無料|무료|Gratis|Grátis|Бесплатно|ฟรี|

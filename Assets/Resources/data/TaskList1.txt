@@ -1,0 +1,16 @@
+Key,任务,完成数量,任务触发类型,奖励ID,奖励数量,奖励ID,奖励数量,描述
+Key,taskremark,taskCount,Type,Rid1,Rcount1,Rid2,Rcount2,描述
+task1,到达第%s个关,15,PassLevel,8,1,4,1,1
+task2,使用%s次魔法技能,20,UseGang,9,1,6,1,1
+task3,关卡胜利并收集%s个精灵,360,jingling,2,1500,2,1500,1
+task4,使用%s次金币道具,15,Use_gbdj,7,1,8,1,1
+task5,关卡胜利并收集%s个泡泡,2100,KillBubble,1,30,5,1,1
+task6,使用%s次4魔法组合技能,20,Skill4,8,1,5,1,1
+task7,使用%s次钻石道具,20,Use_zsdj,3,50,3,50,1
+taskadd1,到达第%s个关,30,PassLevel,8,4,4,4,1
+taskadd2,使用%s次魔法技能,50,UseGang,9,4,6,4,1
+taskadd3,关卡胜利并收集%s个精灵,600,jingling,2,5000,2,5000,1
+taskadd4,使用%s次金币道具,30,Use_gbdj,7,4,8,4,1
+taskadd5,关卡胜利并收集%s个泡泡,3500,KillBubble,10,1,5,4,1
+taskadd6,使用%s次4魔法组合技能,40,Skill4,8,4,5,4,1
+taskadd7,使用%s次钻石道具,40,Use_zsdj,3,150,3,150,1

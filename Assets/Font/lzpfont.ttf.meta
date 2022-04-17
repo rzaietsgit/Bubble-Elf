@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e8dc857738a24eaa8310790b92cf4560
+timeCreated: 1588168581
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "lzpfont"
+  fontNames:
+  - PoetsenOne
+  - lzpfont
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

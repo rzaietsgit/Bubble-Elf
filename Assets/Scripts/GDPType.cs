@@ -1,0 +1,13 @@
+public enum GDPType
+{
+	NONE = 0,
+	BUYSKILL = 1,
+	BUYLOVE = 2,
+	BUYBUBBLE = 3,
+	BUYGANG = 4,
+	BUYGB = 5,
+	BUGDAOJU = 6,
+	BUYBUQIANDAO = 7,
+	ZHUANPAN = 8,
+	Dare = 8
+}

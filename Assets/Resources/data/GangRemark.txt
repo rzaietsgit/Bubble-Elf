@@ -1,0 +1,6 @@
+KEY,,
+Key,remarkText,remark
+1,Flash Jar can clear a whole line!,remark
+2,Fire Jar make huge boom!,remark
+3,Vines Jar will growing up!,remark
+4,Frost Jar can shoot 3 ice bubbles!,remark

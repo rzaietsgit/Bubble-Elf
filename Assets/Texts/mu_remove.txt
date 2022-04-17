@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "tBToh2QUANWYAmm7EMzRWZTcckw", "spine": "3.4.02", "width": 446, "height": 443 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_muqiu_remove", "parent": "root", "x": -17.76, "y": -136.84 }
+],
+"slots": [
+	{ "name": "fx_muqiu_remove", "bone": "fx_muqiu_remove", "attachment": "res/fx_muqiu_boom_10" }
+],
+"skins": {
+	"default": {
+		"fx_muqiu_remove": {
+			"res/fx_muqiu_boom_00": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_01": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_02": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_03": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_04": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_05": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_06": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_07": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_08": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_09": { "x": 4.03, "y": 146, "width": 446, "height": 443 },
+			"res/fx_muqiu_boom_10": { "x": 4.04, "y": 127.69, "width": 446, "height": 443 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_muqiu_remove": {
+				"attachment": [
+					{ "time": 0, "name": "res/fx_muqiu_boom_00" },
+					{ "time": 0.0666, "name": "res/fx_muqiu_boom_01" },
+					{ "time": 0.1333, "name": "res/fx_muqiu_boom_02" },
+					{ "time": 0.2, "name": "res/fx_muqiu_boom_03" },
+					{ "time": 0.2666, "name": "res/fx_muqiu_boom_04" },
+					{ "time": 0.3333, "name": "res/fx_muqiu_boom_05" },
+					{ "time": 0.4, "name": "res/fx_muqiu_boom_06" },
+					{ "time": 0.4666, "name": "res/fx_muqiu_boom_07" },
+					{ "time": 0.5333, "name": "res/fx_muqiu_boom_08" },
+					{ "time": 0.6, "name": "res/fx_muqiu_boom_09" },
+					{ "time": 0.6666, "name": "res/fx_muqiu_boom_10" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

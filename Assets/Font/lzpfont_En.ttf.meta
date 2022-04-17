@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19f42968b7cc41bdafbea892b90e37bb
+timeCreated: 1588168581
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "lzpfont_En"
+  fontNames:
+  - lzpfont
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

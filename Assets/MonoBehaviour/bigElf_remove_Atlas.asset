@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d057d5df1c3e7986783d54ef9fce7951, type: 3}
+  m_Name: "bigElf_remove_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 5c278b89ba584f88aed7903546f7f9d6, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 995cdc82a1ef4fc2b3e412e9e563d6f8, type: 2}
+  - {fileID: 2100000, guid: 7c3427f5e516450b982f9f169d8590c4, type: 2}

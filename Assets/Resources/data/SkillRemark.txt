@@ -1,0 +1,8 @@
+KEY,,
+Key,remarkText,remark
+1,Refractor make you more accurate!,remark
+2,Super bubble launcher can choose 3 bubbles!,remark
+3,Bubble capsules can increase 10 bubbles!,remark
+4,Bomb bubble can clear some obstacles!,remark
+5,Diamonds,Diamonds
+6,Lives,Live

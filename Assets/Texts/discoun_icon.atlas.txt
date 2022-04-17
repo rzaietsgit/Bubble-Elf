@@ -1,0 +1,27 @@
+
+discoun_icon.png
+size: 113,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/levelmap_img_4
+  rotate: false
+  xy: 2, 61
+  size: 56, 50
+  orig: 56, 56
+  offset: 0, 3
+  index: -1
+images/levelsales_icon_shop_1
+  rotate: false
+  xy: 2, 8
+  size: 53, 51
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+images/levelsales_icon_shop_2
+  rotate: true
+  xy: 60, 58
+  size: 53, 51
+  orig: 54, 54
+  offset: 1, 1
+  index: -1

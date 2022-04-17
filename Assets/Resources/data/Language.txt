@@ -1,0 +1,467 @@
+Key|简体中文|英文|法|德|日|韩|繁體中文|描述
+Key|Simplified_Chinese|English|French|German|Japanese|Korean|Traditional_Chinese|登录界面的Play按钮
+Login_Play|开始|Play|Jouer|Spielen|プレイ|플레이|開始|登录界面的Play按钮
+Login_FaceBookConn|连接|Connect|Connexion|Verbinden|接続|연결|連接|登录界面的FaceBook登录按钮
+ADS_FREE|屏蔽广告|Ads Free|Sans Pub|Werbefrei|無料広告|광고 제거|移除廣告|登录界面
+MapNameRemark1|树屋|Tree Land|Forêt Verte|Baumhaus|樹の家|나무 섬|樹屋|地图名字
+MapNameRemark2|冰冠之堡|Castle Land|Citadelle de Glace|Eiszitadelle|氷の砦|얼음 성|冰冠之堡|地图名字
+MapNameRemark3|火焰之地|Volcanoland|Volcanique|Vulkan|火山|화산|火焰之地|地图名字
+MapNameRemark4|神秘大陆|Magic Land|Terre Mystérieuse|Mysteriöses Land|ミステリアスランド|마법의 섬|神秘大陸|地图名字
+MapNameRemark5|森林之家|Forest Land|Ville des Machines|Volkshaus|民家|숲의 섬|森林之家|地图名字
+MapNameRemark6|红枫林|Maple Forest|Forêt d'Érables|Ahornwald|メイプルフォレスト|단풍나무 숲|紅楓林|地图名字
+MapNameRemark7|寒霜峭壁|Ice Land|Falaises Glacées|Frostklippen|フォレストクリフ|얼음 섬|寒霜峭壁|地图名字
+MapNameRemark8|冰雪之原|Snow World|Neige Originelle|Ursprünglicher Schnee|オリジナルスノ|눈의 세계|冰雪之原|地图名字
+MapNameRemark9|竹林仙境|Bamboo Land|Forêt de Bambou|Bambuswald|竹の森|대나무섬|竹林仙境|地图名字
+MapNameRemark10|冰蓝之海|Ocean World|Océan de Glace|Eisozean|氷の海|바다 세상|冰藍之海|地图名字
+MapNameRemark11|大阪之旅|Osaka Trip|Voyage à Osaka|Osakareise|大阪の旅|오사카여행|大阪之旅|地图名字
+MapNameRemark12|毒菇岛|Mushroom Island|Île Champignon|Pilzinsel|きのこ島|버섯 섬|毒菇島|地图名字
+MapNameRemark13|玩具城|Toy City|Ville Jouet|Spielzeugstadt|トイシティ|장난감 도시|玩具城|地图名字
+MapNameRemark14|萝卜地|Radish Field|Terrain de Radis|Rettichfeld|大根畑|무밭|蘿蔔地|地图名字
+MapNameRemark15|林中堡|Forest Fortress|Forteresse de la Forêt|Waldfestung|フォレストフォートレス|숲 요새|林中堡|地图名字
+MapNameRemark16|冰炎之径|Magical Island|Île Magique|Magieinsel|魔法の島|마법의 섬|冰炎之徑|地图名字
+MapNameRemark17|红树庄|Mangrove Village|Village Mangrove|Magrovendorf|マングローブ村|맹그로브 마을|紅樹莊|地图名字
+MapNameRemark18|椰林岛|Coco land|Île Coco|Kokosinsel|ココナッツアイランド|코코넛 섬|椰林島|地图名字
+MapNameRemark19|桃园仙境|Peach Garden|Île Pêche|Pfirsischinsel|ピーチアイランド|복숭아 정원|桃園仙境|地图名字
+MapNameRemark20|西部世界|West World|Monde de l'Ouest|Westwelt|ウエストワールド|West World|西部世界|地图名字
+MapNameRemark21|神殿遗址|Temple Remains|Restes du Temple|Tempelüberbleibsel|寺院遺跡|Temple Remains|神殿遺址|地图名字
+MapNameRemark22|蛋糕屋|Cake House|Cake House|Kuchenhaus|ケーキハウス|Cake House|蛋糕屋|地图名字
+MapNameRemark23|水上铁轨|Water Track|Water Track|Wasserspur|ウォータートラック|Water Track|水上鐵軌|地图名字
+MapNameRemark24|瑞雪村|Snow Village|Village de Neige|Schneedorf|スノービレッジ|Snow Village|瑞雪村|地图名字
+MapNameRemark25|巨石阵|Stonehenge|Stonehenge|Steinkreis|Stonehenge|Stonehenge|巨石陣|地图名字
+MapNameRemark26|特洛伊|Troy|Troy|Troja|トロイ|Troy|特洛伊|地图名字
+MapNameRemark27|侏罗纪公园|Jurassic Park|Parc du Jurassique|Dinosaurier-Park|ジュラシックパーク|Jurassic Park|侏羅紀公園|地图名字
+MapNameRemark28|动物园|Zoo|Zoo|Zoo|ノリリスク|Zoo|動物園|地图名字
+MapNameRemark29|喜马拉雅|Himalayan|Himalayan|Himalayan|ヒマラヤ|Himalayan|喜馬拉雅|地图名字
+MapNameRemark30|夏威夷|Hawaii|Hawa?|Hawaii|ハワイ|Hawaii|夏威夷|地图名字
+MapNameRemark31|紫檀林|Sandalwood Forest|Sandalwood Forest|Sandelholz Wald|サンダルウッドの森|Sandalwood Forest|紫檀林|地图名字
+MapNameRemark32|酆都|Gate of Hell|Gate of Hell|Tor zur H?lle|地獄の門|Gate of Hell|酆都|地图名字
+MapNameRemark33|桃花岛|Peach Blossom Island|Peach Blossom Island|Peach Blossom Island|桃花島|Peach Blossom Island|桃花島|地图名字
+MapNameRemark34|极地世界|Ice World|Ice World|Ice World|氷の世界|Ice World|極地世界|地图名字
+MapNameRemark35|蘑菇岛|Mushroom Island|Mushroom Island|Mushroom Island|きのこ島|Mushroom Island|蘑菇島|地图名字
+MapNameRemark36|食人族|Cannibal Village|Cannibal Village|Cannibal Village|人食い人種の村|Cannibal Village|食人族|地图名字
+MapNameRemark37|普吉岛|Mount Fuji|Mount Fuji|Mount Fuji|ノリリスク|Mount Fuji|普吉島|地图名字
+MapNameRemark38|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|地图名字
+MapNameRemark39|迷宫|Maze|Maze|Weißes Dorf|ノリリスク|% %|迷宮|地图名字
+MapNameRemark40|法老王国|Pharaoh Kingdom|Pharaoh Kingdom|Weißes Dorf|ノリリスク|% %|法老王國|地图名字
+MapNameRemark41|蘑菇岛|Mushroom Island|Mushroom Island|Weißes Dorf|ノリリスク|% %|蘑菇島|地图名字
+MapNameRemark42|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|地图名字
+MapNameRemark43|迷宫|Maze|Maze|Weißes Dorf|ノリリスク|% %|迷宮|地图名字
+MapNameRemark44|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|地图名字
+MapNameRemark45|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|地图名字
+MapNameRemark46|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|地图名字
+AdAwardTitle|奖励|Award!|Récompense !|Belohnung!|報酬|보상|獎勵|奖励标题
+AdAwardRemark1|瞄准器让你瞄的更准！|Aiming Line make you more accurate |Les réfracteurs vont rendent plus précis !|Die Linse macht dich treffsicherer.|リフレクターを使ってもっと正確に！|굴절기는 명중률을 올려줍니다.|瞄準器讓你瞄的更准！|技能说明
+AdAwardRemark2|换球器可以让你在三个发射球中选择！|Ball Exchanger can choose 3 shooting bubbles|Le Lanceur de Bulles vous permet de choisir entre 3 bulles !|Die Blasenkanone bietet dir die Auswahl aus 3 Blasentypen!|バブルランチャーを使うと、3つのバブルから選択できる！|버블 발사기는 버블 3개 중 고를 수 있도록 합니다.|換球器可以讓你在三個發射球中選擇！|技能说明
+AdAwardRemark3|泡泡仪可以增加10个发射泡泡！|Get 10 shooting bubbles|Les Capsules de Bulles augmentent votre nombre de bulles disponibles de 10 !|Blassenkapseln erhöhen die Anzahl verfügbarer Blasen um 10!|バブルカプセルを使うと、使えるバブルが10個増える！|버블 캡슐은 현재 사용 가능한 버블을 10만큼 증가시켜줍니다.|泡泡儀可以增加10個發射泡泡！|技能说明
+AdAwardRemark4|炸弹泡泡可以帮你清除障碍！|Bomb Bubbles can help you clear the blocks|Utilisez une Bombe Bulle pour éliminer les obstacles !|Verwende Bombenblasen， um Hindernisse zu beseitigen!|爆弾バブルで障害物をクリア！|폭탄 버블을 사용하여 장애물을 제거하세요!|炸彈泡泡可以幫你清除障礙！|技能说明
+BuyBubbleTtitle|购买5球|Buy 5 balls|Achetez 5 bulles pour continuer.|Kaufe 5 Blasen， um fortzufahren.|バブルを5個購入して続行。|버블을 5개 구매하여 주세요.|購買5球|购买步数标题
+BuyBubbleRemark|不要抛弃精灵宝宝！|Don't abandon the elf!|N'abandonnez pas l'elfe !|Lass die Elfe nicht im Stich!|エルフを見捨てないで！|엘프를 버리고 가지 마세요!|不要拋棄精靈寶寶！|购买步数说明
+BuyGangTitle|购买技能|Buy Skill|Bocal de Compétences|Fähigkeitstöpfe|スキルジャー|스킬 구매|購買技能|购买缸标题
+BuyGangTypeRemarkLeft|填满|Fill up|Remplissez l'|Fülle die|満タンにする |가득 참|填滿|购买缸说明左边
+BuyGangTypeRemark2|火焰罐子！|Fire Blaster|Énergie de Feu !|Feuerenergie!|ファイアーエネルギー！|불 에너지를 채워 주세요!|火焰罐子！|购买缸说明
+BuyGangTypeRemark1|闪电罐子！|Flash Cleaner|Énergie d'Éclair !|Blitzenergie!|フラッシュエネルギー|섬광 에너지를 채워 주세요!|閃電罐子！|购买缸说明
+BuyGangTypeRemark4|冰霜罐子！|Ice Blast|Énergie de Glace !|Eisenergie!|アイスエネルギー|덩굴 에너지를 채워 주세요!|冰霜罐子！|购买缸说明
+BuyGangTypeRemark3|蔓藤罐子！|Growing Vine|Énergie de Vigne !|Rankenenergie!|ツタエネルギー！|덩굴 에너지를 채워 주세요!|蔓藤罐子！|购买缸说明
+BuyGangRemark1|闪电罐子可以消除一行！|The Flash Jar clears all bubbles in a line!|Le Bocal Éclair élimine les bulles en suivant une ligne !|Der Blitztopf zerstört alle Blasen in einer Reihe!|フラッシュジャーでバブルを列ごと一気に消去！|섬광 항아리는 일렬로 버블을 제거합니다.|閃電罐子可以消除一行！|购买缸说明
+BuyGangRemark2|火焰罐子可以发生大爆炸！|Fire Blaster can make super boom|Le Bocal Feu cause une énorme explosion !|Der Feuertopf verursacht eine große Explosion!|ファイアージャーが大爆発をおこす！|불 항아리는 큰 폭발을 일으킵니다.|火焰罐子可以發生大爆炸！|购买缸说明
+BuyGangRemark3|蔓藤罐子会生长！|Growing Vine can clean vertical bubbles|Le Bocal Vigne élimine les bulles alors qu'il grandit !|Der Rankentopf zerstört Blasen während er sprießt!|ツタジャーが成長してバブルを消去！|덩굴 항아리는 자라면서 거품을 제거합니다.|蔓藤罐子會生長！|购买缸说明
+BuyGangRemark4|冰霜罐子可以允许你发射3个冰霜技能！|Ice Blast can shoot 3 ice bubbles|Le Bocal Gelé tire 3 Bulles de Glace !|Der Eistopf verschießt 3 Eisblasen!|同時に3のアイスバブルを放つフロストジャー!|얼음 항아리는 얼음 버블 3개를 발사합니다.|冰霜罐子可以允許你發射3個冰霜技能！|购买缸说明
+BuyGoldTitle|钻石|Diamonds|Diamants|Diamanten|ダイヤモンド|다이아몬드|鑽石|购买钻石
+BuyLivesTitle|生命商店|Life Shop|Magasin de Vies|Lebensladen|ライフショップ|라이프 상점|生命商店|购买体力
+BuyLivesTimeCalcRemark|下一颗生命：|Next Life in:|Prochaine Vie dans :|Nächstes Leben in:|次のライフまであと：|다음 라이프까지 :|下一顆生命：|购买体力文字说明
+BuyLivesRemark|你的生命已经满了！|Your life is full!|Votre vie est pleine !|Deine Leben sind voll!|ライフがいっぱいになりました！|라이프가 가득 차 있습니다!|你的生命已經滿了！|购买体力文字说明
+BuyLivesAskFriends|向好友索要|Ask <BR> Friends|Demander à <BR> Amis|Frag <BR> Freunde| 友人に尋ねる|친구에게<BR>요청|向好友索要|体力界面索要按钮
+BuyLivesbtn|购买生命：|Buy life:|Acheter des vies :|Leben kaufen:|ライフを購入する|라이프 구매 :|購買生命：|体力界面购买按钮
+BuySkillTitle|购买道具|Purchase props|Acheter des accessoires|Gegenstände kaufen|道具を購入する|소도구 구매|購買道具|购买技能标题
+BuySkillRemark0|进入游戏内随机填充一个魔法技能！|Get a magical skill randomly when you playing|Commencez avec un Bocal rempli de magie|Beginne mit einem zufälligen mit Magie gefüllten Topf.|プレー中にランダムに魔法のスキルをゲット|게임을 플레이할 때 마법 스킬을 무작위로 얻습니다|進入遊戲內隨機填充一個魔法技能！|购买技能说明
+BuySkillRemark1|瞄准器让你瞄的更准！|Aiming Line make you more accurate|Les réfracteurs vont rendent plus précis !|Die Linse macht dich treffsicherer.|リフレクターを使ってもっと正確に！|굴절기는 명중률을 올려줍니다.|瞄準器讓你瞄的更准！|购买技能说明
+BuySkillRemark2|换球器可以让你在三个发射球中选择！|With the Super Bubble Launcher you can select 1 of 3 bubbles!|Le Super Lanceur de Bulles vous permet de choisir entre 3 bulles !|Die Blasenkanone bietet dir die Auswahl aus 3 Blasentypen!|スーパーバブルランチャーで3つのバブルから1つ選べます！|버블 발사기는 버블 3개 중 고를 수 있도록 합니다.|換球器可以讓你在三個發射球中選擇！|购买技能说明
+BuySkillRemark3|泡泡仪可以增加10个发射泡泡！|Get 10 shooting bubbles|Les Capsules de Bulles augmentent votre nombre de bulles disponibles de 10 !|Blassenkapseln erhöhen die Anzahl verfügbarer Blasen um 10!|バブルカプセルを使うと、使えるバブルが10個増える！|버블 캡슐은 현재 사용 가능한 버블을 10만큼 증가시켜줍니다.|泡泡儀可以增加10個發射泡泡！|购买技能说明
+BuySkillRemark5|火箭炮可以清除路径上的全部泡泡！|Rocket Blaster can clear all the blocks on the tracks|Le lance-roquette détruit tous les blocs sur son passage|Raketenschuss vernichtet alle Blöcke in seiner Flugbahn.|ロケットブラスターはトラック上のすべてのブロックをクリアします|로켓 블래스터는 일렬로 있는 버블을 제거합니다|火箭炮可以清除路徑上的全部泡泡！|购买技能说明
+BuySkillRemark6|魔法精灵可以消除同色的泡泡！|The Magic Fairy eliminates all bubbles of the same color!|Les Fées Magiques éliminent toutes les bulles d'une même couleur !|Die Fee zerstört alle Blasen einer bestimmten Farbe.|魔法ランダムアイテムは、ランダムにマジカルジャーを1つ満たす!|마법 요정은 같은 색상의 버블을 모두 제거합니다!|魔法精靈可以消除同色的泡泡！|购买技能说明
+BuySkillRemark4|炸弹泡泡可以帮你清除障碍！|Bomb Bubbles can help you clear the blocks|Utilisez une Bombe Bulle pour éliminer les obstacles !|Verwende Bombenblasen， um Hindernisse zu beseitigen!|爆弾バブルで障害物をクリア！|폭탄 버블을 사용하여 장애물을 제거하세요!|炸彈泡泡可以幫你清除障礙！|购买技能说明
+FaceBookRankOpenUIOK|确定|OK|OK|Ok|Ok|Ok|確定|排名超越OK按钮
+FaceBookRankOpenUIShare|分享|Share|Partager|Teilen|共有|공유|分享|排名超越Share按钮
+GuideMaxNext|继续|Next|Suivant|Weiter|次へ|다음|繼續|大窗口的引导按钮
+GuideMaxTitle|解锁|Unlock|Débloquer|Freischalten|ロックを解除|잠금 해제|解鎖|大窗口的引导标题
+GuideMaxRemark1|小心匹配三个<BR>颜色相同的泡泡！|Watch out! Shoot to 3 more same color bubbles|Alignez 3 bulles ! Faites attention !|Kombiniere 3 Blasen! Aber sei vorsichtig!|3つのバブルを合わせよう！<BR>気をつけて！|버블 3개를 매치하세요! 조심하세요!|小心匹配三個<BR>顏色相同的泡泡！|引导说明
+GuideMaxRemark2|匹配与精灵颜色<BR>相同的泡泡解救他！|Shoot the same elf color bubbles to save him|Alignez 3 bulles d'une même couleur pour sauver l'elfe !|Kombiniere 3 Blasen derselben Farbe， um die Elfe zu retten!|同じ色のバブルを3つ合<BR>わせてエルフを救おう！|같은 색상의 버블 3개를 매치하여 엘프를 구해주세요!|匹配與精靈顏色<BR>相同的泡泡解救他！|引导说明
+GuideMaxRemark3|击打激光球消除周围障碍!|Hit the laser ball to clear all the blocks around|Hit the laser ball to clear all the blocks around|Triff den Laserballum alle Blöcke zu zerstören.|レーザーボールを撃って、<BR>周囲のすべてのブロックをクリア|레이저볼을 맞추면 주변 버블들이 제거됩니다|擊打鐳射球消除周圍障礙!|引导说明
+GuideMaxRemark4|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMaxRemark5|火焰泡泡击中<BR>会产生大爆炸！|Fire Blaster can make super boom|La Bulle de Feu cause une énorme explosion !|Die Feuerblase verursacht eine große Explosion!|ファイアーバブルが大爆発をおこす！|불 버블은 큰 폭발을 일으킵니다.|火焰泡泡擊中<BR>會產生大爆炸！|引导说明
+GuideMaxRemark7|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMaxRemark11|蔓藤泡泡击中会生长！|Growing Vine can clean vertical bubbles|La Bulle de Vigne grandira là où elle atterrit !|Die Rankenblase sprießt dort， wo sie landet!|ツタバブルは着地したところで育つ！|덩굴 항아리는 자라면서 버블을 제거합니다.|蔓藤泡泡擊中會生長！|引导说明
+GuideMaxRemark46|火箭炮能穿透<BR>路径上所有的泡泡！|Rocket Blaster can clear<BR>all the blocks on the tracks|Le lance-roquette détruit tous les blocs sur son passage|Schieße Rankenblßschen ab um sie wachsen zu lassen!|ロケットブラスターはトラック上の<BR>すべてのブロックをクリアします|로켓 블래스터는 일렬로 있는 버블을 제거합니다|火箭炮能穿透<BR>路徑上所有的泡泡！|引导说明
+GuideMaxRemark14|混合两个罐子技能<BR>会有不一样的效果！|Mix 2 skills to get different effects|Vous pouvez combiner différentes compétences selon les Bocaux que tu choisis !|Du kannst unterschiedliche Fähigkeiten kombinieren， je nach dem，|選択するジャーによってスキルを<BR>組み合わせることができる！|더 강력한 스킬 발동을 위하여 항아리 2개를 조합해보세요!|混合兩個罐子技能<BR>會有不一樣的效果！|引导说明
+GuideMaxRemark18|石头不能被消除<BR>但是可以掉落！|Stones can not be broken but can be dropping!|Les pierres ne peuvent pas être brisées mais vous pouvez les faire tomber !|Steine können nicht zerstört， jedoch aber zu Fall gebracht werden.|ストーンは壊せないが、落とすことはできる！|돌은 부실 수 없지만 떨어트릴 수 있어요!|石頭不能被消除<BR>但是可以掉落！|引导说明
+GuideMaxRemark16|瞄准器让你瞄的更准！|Aiming Line make you more accurate|Les réfracteurs vont rendent plus précis !|Die Linse macht dich treffsicherer!|リフレクターを使ってもっと正確に！|굴절기는 명중률을 올려줍니다.|瞄準器讓你瞄的更准！|引导说明
+GuideMaxRemark28|换球器可以让你在<BR>三个发射球中选择！|Ball Exchanger can choose 3 shooting bubbles|Avec le Super Lanceur de Bulle， vous pouvez sélectionner 1 des 3 bulles !|Die Super-Blasen-Kanone kann 1 von 3 Blasen wählen!|バブルランチャーを使うと、3つのバブルから選択できる！|버블 발사기는 버블 3개 중 고를 수 있도록 합니다.|換球器可以讓你在<BR>三個發射球中選擇！|引导说明
+GuideMaxRemark21|炸弹泡泡可以帮你清除障碍！|Bomb Bubbles can help you clear the blocks|Utilisez les Bombes Bulle pour éliminer les obstacles !|Zerstöre Hindernisse mit der Bombenblase!|爆弾バブルで障害物をクリア！|폭탄 버블을 사용하여 장애물을 제거하세요!|炸彈泡泡可以幫你清除障礙！|引导说明
+GuideMaxRemark24|闪电泡泡可以消除<BR>一行全部的泡泡！|Flash Cleaner can clear a whole line |La Bulle Éclair permet d'éliminer une ligne complète de bulles !|Die Blitzblase kann eine ganze Linie von Blasen zerstören!|フラッシュバブルでバブルを列ごと一気に消去！|섬광 버블은 일렬로 있는 모든 버블을 제거할 수 있어요!|閃電泡泡可以消除<BR>一行全部的泡泡！|引导说明
+GuideMaxRemark56|魔法精灵能消除与被击中<BR>泡泡同色的屏幕内所有泡泡！|The Magic Fairy eliminates all bubbles of the same color!|Touchez une bulle avec la Bulle Magique pour détruire toutes les autres bulles de la même couleur !|Die Magieblase zerstört alle Blasen， die du triffst.|魔法ランダムアイテムは、<BR>ランダムにマジカルジャーを1つ満たす!|마법 요정은 같은 색상의 버블을 모두 제거합니다!|魔法精靈能消除與被擊中<BR>泡泡同色的螢幕內所有泡泡！|引导说明
+GuideMaxRemark27|组合3个罐子形成<BR>强力组合技能！|Mix 3 skills to have a large area of explosion|Combinez 3 Bocaux pour engendrer une explosion encore plus grande !|Eine 3er Kombination hat eine größere Explosionsfläche.|3 つのジャーを組み合<BR>わせてもっと大きな爆発を!|3개의 항아리를 조합하면 더 큰 폭발이 일어납니다.|組合3個罐子形成<BR>強力組合技能！|引导说明
+GuideMaxRemark41|冰霜罐子可以允许你<BR>发射3个冰霜技能！|Ice Blast can shoot 3 ice bubbles|Le Bocal Gelé tire 3 Bulles de Glace en même temps !|Der Eistopf verschießt 3 Eisblasen auf einmal!|同時に3のアイスバブルを放つフロストジャー!|얼음 항아리는 3개의 얼음 버블을 동시에 쏩니다.|冰霜罐子可以允許你<BR>發射3個冰霜技能！|引导说明
+GuideMaxRemark44|组合所有罐子技能会<BR>消除界面内全部的泡泡！|Mix all 4 skills to clear all on the screen|Combinez le pouvoir de 4 Bocaux pour éliminer toutes les bulles !|Die Kombination aller Töpfe führt zur Zerstörung aller Hindernisse!|4つのジャーの力を結合してす<BR>べてのバブルをクリア!|4개의 스킬을 조합하여 모든 버블을 제거하세요!|組合所有罐子技能會<BR>消除介面內全部的泡泡！|引导说明
+GuideMaxRemark51|镜子泡泡会复制旁边的颜色！|Mirror bubble can copy color!|La Bulle Miroir peut copier une couleur !|Die Spielgelblase kann Farben spiegeln.|ミラーバブルで色をコピーできる！|거울 버블은 색상을 복사할 수 있어요!|鏡子泡泡會複製旁邊的顏色！|引导说明
+GuideMaxRemark36|小心尖刺泡泡！|Watch out for sharp bubbles!|Faites attention aux bulles coupantes !|Achte auf die schargen Blasen!|シャープなバブルに気をつけろ!|뾰족한 버블을 조심하세요!|小心尖刺泡泡！|引导说明
+GuideMaxRemark81|魔法能量帮助你开局时<BR>随机补充一个魔法!|Magic Energy give you a skill randomly when you start playing|L'Énergie Magique vous donne une compétence aléatoire lorsque vous commencer à jouer|Magische Energie verleiht dir zufällig eine Fähigkeit wenn du das Spiel beginnst.|マジックエネルギーは、プレー中にランダムにスキルを与えます|마법 에너지는 라운드를 시작할 때 무작위 스킬을 줍니다|魔法能量幫助你開局時<BR>隨機補充一個魔法!|引导说明
+GuideMaxRemark76|变色泡泡会随机变换一个颜色！|Off-Color bubbles will swich color randomly|Les bulles de couleur changent de couleur chaque tour !|Die Farbblase ändert ihre Farbe zufällig jede Runde!|カラーバブルで、ラウンドごとに<BR>色をランダムに切り替えられる！|컬러 버블은 매 라운드마다 무작위로 색을 바꿀 수 있어요!|變色泡泡會隨機變換一個顏色！|引导说明
+GuideMaxRemark101|发射泡泡可以打破冰霜泡泡！|Shoot bubble to smash ice bubble!|Détruisez les Bulles de Glace en tirant des bulles dessus !|Schieße auf die Blase， um die Eisblase zu zerstöen!|バブルを撃ってアイスバブル<BR>をスマッシュ！|얼음 버블에 버블을 발사하여 부셔버려요!|發射泡泡可以打破冰霜泡泡！|引导说明
+GuideMaxRemark126|发射泡泡穿过空气泡泡！|Pop Air Bubbles by shooting bubbles at them!|Traversez les Bulles d'Air en tirant des bulles dessus !|Schieße eine Blase， um die Luftblase zu übererwinden.|バブルを撃ってエアバブルをクロス！|에어 버블에 버블을 발사하여 제거하세요!|發射泡泡穿過空氣泡泡！|引导说明
+GuideMaxRemark151|击碎挂点让泡泡掉落下来！|Hit the Bubble Hook to<BR>drop all the bubbles around it|Si vous touchez le point d'attache， toutes les autres bulles tomberont !|Triff den Hängepunkt， um Blasen herabregenen zu lassen!|ぶら下がっているポイントをヒットすると、<BR>他のバブルがすべて落下！|매달려 있는 구간을 맞추면 다른 거품들을 떨어트릴 수 있어요!|擊碎掛點讓泡泡掉落下來！|引导说明
+GuideMaxRemark201|云朵会遮住下面的泡泡<BR>可以打破他们！|Clouds will cover the following bubbles|Des nuages peuvent cacher quelques bulles， mais vous pouvez les dissiper !|Wolken verdecken einige Blasen. Du kannst sie aber zerstören!|雲に覆われていても、<BR>バブルは壊せる！|구름이 버블을 가려도 제거는 할 수 있어요!|雲朵會遮住下麵的泡泡<BR>可以打破他們！|引导说明
+GuideMaxRemark251|大精灵需要击落才能被收集哦！|Shoot down all the bubbles around the big elf to collect it|Éclatez toutes les bulles autour du grand elfe pour le récupérer|Schieße all die Blasen um die große Elfe herum ab und sammle sie.|大きなエルフの周りにあるすべ<BR>てのバブルを撃ち落として集めます|큰 엘프 주변에 버블을 모두 제거하여 획득합니다|大精靈需要擊落才能被收集哦！|引导说明
+GuideMaxRemark301|消除+3球可以增加3个发射球<BR>尽量不要消除-3球哦|Shoot down the +3 bubble to add 3 shooting balls but watch out the -3 bubbles|Éliminer les Bulles Bonus vous donnera 3 bulles supplémentaires !|Beim Zerstören der Bonusblase erhältst du 3 Extra-Blasen!|バフバブルを消去して、エキス<BR>トラバブルを3つゲット！|버프 버블을 제거하면 버블 수량이 3개 증가해요!|消除+3球可以增加3個發射球<BR>儘量不要消除-3球哦|引导说明
+GuideMaxRemark401|只有消除锁里的泡泡<BR>才能解开锁链哦！|Match 3 bubbles to destroy the lock!|Match 3 bubbles to destroy the lock!|Match 3 bubbles to destroy the lock!|Match 3 bubbles to destroy the lock!| Match 3 bubbles to destroy the lock!|只有消除鎖裏的泡泡<BR>才能解開鎖鏈哦！|引导说明
+GuideMaxRemark501|染色球可以将周围的泡泡<BR>染成发射球的颜色！|Shoot the dyed bubble to color surrounding bubbles!|Shoot the dyed bubble to color surrounding bubbles!|Shoot the dyed bubble to color surrounding bubbles!|周囲のボールを着色するため<BR>に染めたボールを撃ってください！| Shoot the dyed bubble to color surrounding bubbles!|染色球可以將周圍的泡泡<BR>染成發射球的顏色！|引导说明
+GuideMaxRemark601|蜘蛛领主会吐丝哦<BR>努力去击落它吧！|Make the spier fall or it will cause troubles!|Make the spier fall or it will cause troubles!|Make the spier fall or it will cause troubles!|Make the spier fall or it will cause troubles!| Make the spier fall or it will cause troubles！|蜘蛛領主會吐絲哦<BR>努力去擊落它吧！|引导说明
+GuideMin1Remark1|点击发射泡泡！|Tap to shoot the selected bubble!|Touchez pour tirer la bulle sélectionnée !|Tippe auf den Bildschirm， um eine ausgewählte Blase abzuschießen!|タップでバブル発射！|탭하여 버블 교체!|點擊發射泡泡！|引导说明
+GuideMin1Remark2|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark3|点击更换泡泡！|Tap to switch the bubble|Touchez pour échanger les bulles !|Tippe auf den Bildschirm， um Blasen zu wechseln!|タップして選んだバブルを撃て！|탭하여 버블 교체!|點擊更換泡泡！|引导说明
+GuideMin1Remark4|利用墙壁反射不同的角度！|Rebound the shooting bubble to your targets|Faites rebondir les bulles avec des angles différents !|Lass Blasen an den Wänden abprallen， um verschiedene Einschusswinkel zu realisieren!|バブルを様々な角度に跳ね返せ！|다양한 각도로 버블을 튕겨보세요!|利用牆壁反射不同的角度！|引导说明
+GuideMin1Remark5|击落泡泡掉入罐子生成技能！|Shoot down the bubbles to the jars it will create skills|Faites tomber les bulles dans le Bocal pour accumuler du pouvoir !|Lass Blasen in den Topf fallen， um Energie zu speichern!|バブルをジャーに落としてパワ<BR>ーを貯めよう！|버블을 항아리로 떨어트려 에너지를 모아요!|擊落泡泡掉入罐子生成技能！|引导说明
+GuideMin1Remark6|击中火焰泡泡产生爆炸！|Hit fire bubbles to boom!|Touchez les Bulles de Feu pour les faire exploser !|Triff Feuerblasen， um sie zum Explodieren zu bringen!|ファイアーバブルをヒットして<BR>爆発させろ！|불버블을 맞추면 폭발합니다!|擊中火焰泡泡產生爆炸！|引导说明
+GuideMin1Remark8|点击空罐子！购买技能！|Click the empty jar! Buy Skills|Vous pouvez acheter des compétences en touchant un Bocal vide !|Du kannst Fähigkeiten kaufen， wenn du auf leere Töpfe tippst!|空のジャーをタップするとスキ<BR>ルが買える！|빈 항아리를 탭하면 스킬을 구매할 수 있어요!|點擊空罐子！購買技能！|引导说明
+GuideMin1Remark11|击落泡泡掉入罐子生成技能！|Shoot down the bubbles to the jars it will create skills|Faites tomber les bulles dans le Bocal pour accumuler du pouvoir !|Lass Blasen in den Topf fallen， um Energie zu speichern!|バブルをジャーに落としてパワ<BR>ーを貯めよう！|버블을 항아리로 떨어트려 에너지를 모아요!|擊落泡泡掉入罐子生成技能！|引导说明
+GuideMin1Remark12|击中蔓藤泡泡使他生长！|Hit vine bubble to grow up|Les Bulles de Vigne grandiront dès qu'elles toucheront quelque chose !|Rankenblasen sprießen， sobald sie getroffen werden!|ツタバブルは何かにあたると<BR>育ち始める！|덩굴 버블을 맞추면 자랍니다.|擊中蔓藤泡泡使他生長！|引导说明
+GuideMin1Remark14|混合2个罐子技能！|Mix 2 skills|Combinez 2 Bocaux pour activer un pouvoir encore plus grand !|Kombiniere 2 Töpfe， um eine stärkere Fähigkeit zu aktivieren!|2つのジャーを組み合わせて、<BR>強力なスキルをアクティブにしよう！|스킬  2개를 조합해보세요!|混合2個罐子技能！|引导说明
+GuideMin1Remark13|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark15|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark16|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark17|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark24|击落泡泡掉入罐子生成技能！|Shoot down the bubbles to the jars  it will create skills|Faites tomber les bulles dans le Bocal pour accumuler du pouvoir !|Lass Blasen in den Topf fallen， um Energie zu speichern!|バブルをジャーに落としてパワーを貯めよう！|버블을 항아리로 떨어트려 에너지를 모아요!|擊落泡泡掉入罐子生成技能！|引导说明
+GuideMin1Remark25|击中闪电泡泡产生闪电！|Hit Flash Bubbles to clear all the lines' bubbles|Touchez des Bulles Éclair pour déclencher un éclair !|Wenn du die Blitzblase triffst， wird ein Blitzschlag ausgelöst!|フラッシュバブルにヒットすると雷が起こる！|섬광 버블을 맞추면  일렬로 있는 모든 버블을 제거할 수 있어요!|擊中閃電泡泡產生閃電！|引导说明
+GuideMin1Remark27|混合三个罐子技能！|Mix 3 skills to have a blast|Combinez 3 Bocaux pour engendrer une énorme explosion !|Kombiniere 3 Töpfe， um eine sehr große Explosion zu verursachen!|3つのジャーを組み合わせて大爆発を引き起こそう！|스킬 3개를 조합하여 큰 폭발을 일으켜요!|混合三個罐子技能！|引导说明
+GuideMin1Remark41|击落泡泡掉入罐子生成技能！|Shoot down the bubbles to the jars it will create skills|Faites tomber les bulles dans le Bocal pour accumuler du pouvoir !|Lass Blasen in den Topf fallen， um Energie zu speichern!|バブルをジャーに落としてパワーを貯めよう！|버블을 항아리로 떨어트려 에너지를 모아요!|擊落泡泡掉入罐子生成技能！|引导说明
+GuideMin1Remark44|混合所有罐子技能！|Mix all 4 skills to clear all on the screen|Combinez 4 Bocaux pour éliminer toutes les bulles !|Kombiniere 4 Töpfe， um alle Blasen zu zerstören!|4つのジャーを組み合わせてバブルをすべてクリア！|스킬 4개를 조합하여 모든 버블 제거|混合所有罐子技能！|引导说明
+GuideMin1Remark31|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark51|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin1Remark61|加球仪让你在开局时增加10个球数|Get 10 shooting bubbles|L'ajoute de Balles vous permet d'avoir 10 balles supplémentaires au début de la partie.|Blassenkapseln erhßhen die Anzahl verfügbarer Blasen um 10!|バブルカプセルを使うと、使えるバブルが10個増える！|버블 캡슐은 현재 사용 가능한 버블을 10만큼 증가시켜줍니다.|加球儀讓你在開局時增加10個球數|引导说明
+GuideMin1Remark71|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark1|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark2|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark3|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark4|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark5|点击罐子使用技能！|Tap the jar!use skills!|Touchez le Bocal pour utiliser les compétences !|Tippe auf den Topf， um eine Fähigkeit einzusetzen!|ジャーをタップしてスキルを使う !|항아리를 탭하여 스킬 사용!|點擊罐子|引导说明
+GuideMin2Remark7|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark8|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark9|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark11|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark12|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark13|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark15|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark16|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark17|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark19|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark21|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark23|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark24|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark26|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark31|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark41|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark51|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark61|kong|kong|kong|kong|kong|kong|kong|引导说明
+GuideMin2Remark71|kong|kong|kong|kong|kong|kong|kong|引导说明
+LivesRemark|询问额外体力|Ask for an extra life|Demander une vie supplémentaire|Extra-Leben anfragen|エキストラライフを頼む|여분의 힘을 요구하십시오|詢問額外體力|索要体力文字
+LoseUILevelTitle|关卡 LEVELID|Level LEVELID|Niveau LEVELID|Level LEVELID|LEVELIDレベル|레벨 LEVELID|關卡 LEVELID|失败界面标题
+LoseUILevelFailedText|失败|Failed!|Raté !|Fehlschlag!|失敗！|실패!|失敗|失败界面标题
+LoseUILevelRestartText|重新开始|Restart|Recommencer|Neustart|再開|재시작|重新開始|失败界面按钮
+LoseUILevelFaceBookConn|连接|Connect|Connexion|Verbinden|接続|연결|連接|失败界面按钮
+MapIconUIMapLevelNum|关卡 LEVELID|Level 1|Niveau LEVELID|Level LEVELID|1レベル|레벨 1|關卡 LEVELID|小地图
+MapIconUIMapName1|树屋|Tree Land|Forêt Verte|Baumhaus|樹の家|나무 섬|樹屋|小地图名字
+MapIconUIMapName2|冰冠之堡|Castle Land|Citadelle de Glace|Eiszitadelle|氷の砦|얼음 성|冰冠之堡|小地图名字
+MapIconUIMapName3|火焰之地|Volcanoland|Volcanique|Vulkan|火山|화산|火焰之地|小地图名字
+MapIconUIMapName4|神秘大陆|Magic Land|Terre Mystérieuse|Mysteriöses Land|ミステリアスランド|마법의 섬|神秘大陸|小地图名字
+MapIconUIMapName5|森林之家|Forest Land|Ville des Machines|Volkshaus|民家|숲의 섬|森林之家|小地图名字
+MapIconUIMapName6|红枫林|Maple Forest|Forêt d'Érables|Ahornwald|メイプルフォレスト|단풍나무 숲|紅楓林|小地图名字
+MapIconUIMapName7|寒霜峭壁|Ice Land|Falaises Glacées|Frostklippen|フォレストクリフ|얼음 섬|寒霜峭壁|小地图名字
+MapIconUIMapName8|冰雪之原|Snow World|Neige Originelle|Ursprünglicher Schnee|オリジナルスノ|눈의 세계|冰雪之原|小地图名字
+MapIconUIMapName9|竹林仙境|Bamboo Land|Forêt de Bambou|Bambuswald|竹の森|대나무섬|竹林仙境|小地图名字
+MapIconUIMapName10|冰蓝之海|Ocean World|Océan de Glace|Eisozean|氷の海|바다 세상|冰藍之海|小地图名字
+MapIconUIMapName11|大阪之旅|Osaka Trip|Voyage à Osaka|Osakareise|大阪の旅|오사카여행|大阪之旅|小地图名字
+MapIconUIMapName12|毒菇岛|Mushroom Island|Île Champignon|Pilzinsel|きのこ島|버섯 섬|毒菇島|小地图名字
+MapIconUIMapName13|玩具城|Toy City|Ville Jouet|Spielzeugstadt|トイシティ|장난감 도시|玩具城|小地图名字
+MapIconUIMapName14|萝卜地|Radish Field|Terrain de Radis|Rettichfeld|大根畑|무밭|蘿蔔地|小地图名字
+MapIconUIMapName15|林中堡|Forest Fortress|Forteresse de la Forêt|Waldfestung|フォレストフォートレス|숲 요새|林中堡|小地图名字
+MapIconUIMapName16|冰炎之径|Magical Island|Île Magique|Magieinsel|魔法の島|마법의 섬|冰炎之徑|小地图名字
+MapIconUIMapName17|红树庄|Mangrove Village|Village Mangrove|Magrovendorf|マングローブ村|맹그로브 마을|紅樹莊|小地图名字
+MapIconUIMapName18|椰林岛|Coco land|Île Coco|Kokosinsel|ココナッツアイランド|코코넛 섬|椰林島|小地图名字
+MapIconUIMapName19|桃园仙境|Peach Garden|Île Pêche|Pfirsischinsel|ピーチアイランド|복숭아 정원|桃園仙境|小地图名字
+MapIconUIMapName20|西部世界|West World|Monde de l'Ouest|Westwelt|ウエストワールド|West World|西部世界|地图名字
+MapIconUIMapName21|神殿遗址|Temple Remains|Restes du Temple|Tempelüberbleibsel|寺院遺跡|Temple Remains|神殿遺址|地图名字
+MapIconUIMapName22|蛋糕屋|Cake House|Cake House|Kuchenhaus|ケーキハウス|Cake House|蛋糕屋|地图名字
+MapIconUIMapName23|水上铁轨|Water Track|Water Track|Wasserspur|ウォータートラック|Water Track|水上鐵軌|地图名字
+MapIconUIMapName24|瑞雪村|Snow Village|Village de Neige|Schneedorf|スノービレッジ|Snow Village|瑞雪村|地图名字
+MapIconUIMapName25|巨石阵|Stonehenge|Stonehenge|Steinkreis|Stonehenge|Stonehenge|巨石陣|地图名字
+MapIconUIMapName26|特洛伊|Troy|Troy|Troja|トロイ|Troy|特洛伊|地图名字
+MapIconUIMapName27|侏罗纪公园|Jurassic Park|Parc du Jurassique|Dinosaurier-Park|ジュラシックパーク|Jurassic Park|侏羅紀公園|地图名字
+MapIconUIMapName28|动物园|Zoo|Zoo|Zoo|ノリリスク|Zoo|動物園|地图名字
+MapIconUIMapName29|喜马拉雅|Himalayan|Himalayan|Himalayan|ヒマラヤ|Himalayan|喜馬拉雅|地图名字
+MapIconUIMapName30|夏威夷|Hawaii|Hawa?|Hawaii|ハワイ|Hawaii|夏威夷|地图名字
+MapIconUIMapName31|紫檀林|Sandalwood Forest|Sandalwood Forest|Sandelholz Wald|サンダルウッドの森|Sandalwood Forest|紫檀林|地图名字
+MapIconUIMapName32|酆都|Gate of Hell|Gate of Hell|Tor zur H?lle|地獄の門|Gate of Hell|酆都|地图名字
+MapIconUIMapName33|桃花岛|Peach Blossom Island|Peach Blossom Island|Peach Blossom Island|桃花島|Peach Blossom Island|桃花島|地图名字
+MapIconUIMapName34|极地世界|Ice World|Ice World|Ice World|氷の世界|Ice World|極地世界|地图名字
+MapIconUIMapName35|蘑菇岛|Mushroom Island|Mushroom Island|Mushroom Island|きのこ島|Mushroom Island|蘑菇島|地图名字
+MapIconUIMapName36|食人族|Cannibal Village|Cannibal Village|Cannibal Village|人食い人種の村|Cannibal Village|食人族|地图名字
+MapIconUIMapName37|普吉岛|Mount Fuji|Mount Fuji|Mount Fuji|ノリリスク|Mount Fuji|普吉島|地图名字
+MapIconUIMapName38|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|小地图名字
+MapIconUIMapName39|迷宫|Maze|Maze|Weißes Dorf|ノリリスク|% %|迷宮|小地图名字
+MapIconUIMapName40|法老王国|Pharaoh Kingdom|Pharaoh Kingdom|Weißes Dorf|ノリリスク|% %|法老王國|小地图名字
+MapIconUIMapName41|蘑菇岛|Mushroom Island|Mushroom Island|Weißes Dorf|ノリリスク|% %|蘑菇島|小地图名字
+MapIconUIMapName42|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|小地图名字
+MapIconUIMapName43|迷宫|Maze|Maze|Weißes Dorf|ノリリスク|% %|迷宮|小地图名字
+MapIconUIMapName44|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|小地图名字
+MapIconUIMapName45|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|小地图名字
+MapIconUIMapName46|富士山|Mount Fuji|Mount Fuji|Weißes Dorf|ノリリスク|% %|富士山|小地图名字
+MailReceiveBtn|接受|Receive|Recevoir|Erhalten|受取|발송|接受|邮件
+MailSendBtn|发送|Send|Envoyer|Senden|送信|Send|發送|邮件
+MailReceiveRemark|赠送额外体力|Send an extra life|Envoyer une vie supplémentaire|Extra-Leben versenden|エキストラライフを送る|추가 라이프 발송|贈送額外體力|邮件
+MailSendRemark|询问额外体力|Ask for an extra life|Demander une vie supplémentaire|Extra-Leben anfragen|エキストラライフを頼む|여분의 힘을 요구하십시오|詢問額外體力|邮件
+PlayUILevelTitle|关卡 LEVELID|Level LEVELID|Niveau LEVELID|Level LEVELID|LEVELIDレベル|레벨 LEVELID|關卡 LEVELID|Play界面
+PlayUIAdGift|免费礼物|Free Gift|Cadeau Gratuit|Kostenloses Geschenk|無料ギフト|무료 선물|免費禮物|Play界面
+PlayUIAdLive|免费生命|Free Lives|Vie Gratuite|Kostenloses Leben|無料ライブ|무료 라이프|免費生命|Play界面
+PlayUIRemark|拯救 LEVELID 个小精灵|Save LEVELID Small Elves|Sauve LEVELID Petits Elfes|Speichere LEVELID Kleine Elfen|LEVELID 小さなエルフを保存|LEVELID 작은 엘프 구출|拯救 LEVELID 個小精靈|Play界面
+PlayUIStarBtnText|开始|Start|Commencer|Start|スタート|시작|開始|Play界面
+PlayUILevelFaceBookConn|连接|Connect|Connexion|Verbinden|接続|연결|連接|Play界面
+QuitUIContinuebtn|继续|Continue|Continuer|Weiter|続行|이어하기|繼續|退出确认
+QuitUITitle|退出！|Quit!|Quitter !|Beenden!|やめる！|나가기!|退出！|退出确认
+QuitUIQuitbtn|退出|Quit|Quitter|Beenden|やめる|나가기|退出|退出确认
+QuitUIRemark|确定要退出关卡？ <BR> 你将会损失1点体力!|Quit the Level ？ <BR> You will lose a live!|Quitter le niveau ? <BR> Vous perdrez une vie !|Level beenden? <BR> Du verlierst dabei ein Leben!|このレベルを終了しますか<BR> ライブを失います!|현재 레벨 포기？<BR>라이프를 하나 잃습니다？|確定要退出關卡？ <BR> 你將會損失1點體力!|退出确认
+QuitUIRestart1|重玩|Restart|Recommencer|Neustart|再開|재시작|重玩|退出确认
+QuitUIRestart2|重玩|Restart|Recommencer|Neustart|再開|재시작|重玩|退出确认
+QuitGame1|确定要退出游戏？|Quit Game?|Quitter le jeu ?|Spiel beenden?|ゲームを終了しますか？|나가시겠습니까？|確定要退出遊戲？|退出确认
+ReadGoUI|准备开始！|Ready go!|Prêt... Go !|Fertig ... Los!|用意、スタート！|준비... 시작!|準備開始！|ReadGoUI
+SendLivesUITitle|发送体力|Send Lives|Envoyer des vies|Leven versenden|ライフを送信|라이프 보내기|發送體力|送体力
+SendLivesUISendBtn|发送|Send|Envoyer|Senden|送信|발송|發送|送体力
+SendLivesUISelectall|选择全部|Select all|Tout sélectionner|Alles auswählen|すべて選択|모두 선택|選擇全部|送体力
+SkillTipUITitle|解锁！|Unlock!|Débloquer !|Freischalten!|ロックを解除！|잠금 해제|解鎖！|技能解锁
+SkillTipUIRemark1|瞄准器让你瞄的更准！|Aiming Line make you more accurate |Les réfracteurs vont rendent plus précis !|Die Linse macht dich treffsicherer.|リフレクターを使ってもっと正確に！|굴절기는 명중률을 올려줍니다.|瞄準器讓你瞄的更准！|技能解锁
+SkillTipUIRemark2|换球器可以让你在三个发射球中选择！|Ball Exchanger can choose 3 shooting bubbles|Avec le Super Lanceur de Bulle， vous pouvez sélectionner 1 des 3 bulles !|Mit der Super-Blasenkanone kannst du 1 von 3 Blasen auswählen!|バブルランチャーを使うと、3つのバブルから選択できる！|버블 발사기는 버블 3개 중 고를 수 있도록 합니다.|換球器可以讓你在三個發射球中選擇！|技能解锁
+SkillTipUIRemark3|泡泡仪可以增加10个发射泡泡！|Get 10 shooting bubbles|Les Capsules de Bulles augmentent votre nombre de bulles disponibles de 10 !|Blassenkapseln erhöhen die Anzahl verfügbarer Blasen um 10!|バブルカプセルを使うと、使えるバブルが10個増える！|버블 캡슐은 현재 사용 가능한 버블을 10만큼 증가시켜줍니다.|泡泡儀可以增加10個發射泡泡！|技能解锁
+SkillTipUIOKBtn|领取|Receive|Recevoir|Erhalten|受取る|받기|領取|技能解锁
+TipFailUITitle|失败！|Failed!|Raté !!|Fehlschlag!!|失敗！|실패!|失敗！|失败提示
+TipWinUITitle|胜利了！|You Win!|Vous avez gagné !|Sieg!|勝ちました！|승리하였습니다!|勝利了！|胜利提示
+WinUILevelFaceBookConn|连接|Connect|Connexion|Verbinden|接続|연결|連接|胜利界面
+WinUILevelLevelTitle|关卡 LEVELID|Level LEVELID|Niveau LEVELID|Level LEVELID|LEVELIDレベル|레벨 LEVELID|關卡 LEVELID|胜利界面
+WinUITitle|胜利了！|You Win!|Vous avez gagné !|Sieg!|勝ちました！|승리하였습니다!|勝利了！|胜利界面
+WinUILevelScoreText|分数：|Score:|Score :|Punkte:|スコア：|다음|分數：|胜利界面
+WinUINext|下一关|Next|Suivant|Weiter|次へ|다음|下一關|胜利界面
+WinUIShare|分享|Share|Partager|Teilen|共有|공유|分享|胜利界面
+MapSetPanelCon|连接|Connect|Connexion|Verbinden|接続|연결|連接|地图设置
+MapSetPanelOut|登出|LogOut|Déconnexion|Ausloggen|ログアウト|로그아웃|登出|地图设置
+MailPanelCon|连接|Connect|Connexion|Verbinden|接続|연결|連接|邮件界面
+MailPanelConRemark|登陆Facebook与朋友一起玩！ 赠送和获取额外的生命！|Connect to Facebook to play with friend! send and receive extra lives and compare progress!|Connectez-vous à Facebook pour jouer avec des amis， envoyer et recevoir des vies supplémentaires et comparer votre progression !|Verbinde deinen Facebook-Account um mit Freunden zu spielen|Facebookに接続して友達と一緒にプレイしたり、エキストラライフを送りあったり、進歩状況を比較したりしよう！|페이스북과 연결하여 친구들과 함께 즐기고 서로에게 라이프를 주고 진행률을 비교하세요!|登陸Facebook與朋友一起玩！ 贈送和獲取額外的生命！|邮件界面
+MailNullRemark|你没有新的消息！|No News|Vous n'avez aucune nouvelle !|Es gibt keine Neuigkeiten!|新しいニュースはありません!|새로운 소식이 없습니다!|你沒有新的消息！|邮件界面
+InviteBtnText|邀请|Invite|Inviter|Einladen|招待|초대|邀請|邀请按钮
+PauseUICon|连接|Connect|Connexion|Verbinden|接続|연결|連接|暂停面板
+PauseUIOut|登出|LogOut|Déconnexion|Ausloggen|ログアウト|로그아웃|登出|暂停面板
+PauseUIQuitLevel|退出关卡|Quit Level|Quitter le niveau|Level beenden|レベルを終了|현재 레벨에서 나가기|退出關卡|暂停面板
+PauseUITitle|暂停|Pause|Pause|Pause|一時停止|일시정지|暫停|暂停面板
+PauseUIFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|暂停面板登录奖励
+PlayUIFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|Play面板登录奖励
+LoginUIFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|Play面板登录奖励
+LoseUIFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|登录面板登录奖励
+WinUIFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|失败面板登录奖励
+SetMapUITitle|地图|Maps|Cartes|Karte|マップ|맵|地圖|胜利面板登录奖励
+SetSetPanelTitle|设置|Settings|Paramètres|Einstellungen|設定|설정|設置|设置面板地图标题
+SetMailPanelTitle|消息|Messenge|Message|Nachricht|メッセージ|메시지|消息|设置面板设置标题
+YunRemark|敬请期待|Coming Soon|Bientôt|Bald verfügbar|間もなく登場|계속 지켜봐주십시오|敬請期待|邮件面板标题
+KillBubble1|魔法罐子|Magic Jar|Bocal Magique|Magietopf|マジックジャー|마법 항아리|魔法罐子|设置面板云文字描述
+KillBubble2|欢乐时刻|Happy Time|Moment Joyeux|Glückliche Zeit|ハッピータイム|해피타임|歡樂時刻|爆炸特效
+KillBubble3|很好|Good|Bien|Gut|Good|잘 했어요|很好|爆炸特效
+KillBubble4|非常棒|Great|Bien|Toll|WELL|좋아요|非常棒|爆炸特效
+KillBubble5|魔法能量|PowerEnergy |Énergie |Energie |パワーエネルギー |파워에너지<BR>LEVELID|魔法能量|爆炸特效
+KillBubble6|神奇能量|Super Energy |Super Énergie |Super-Energie |スーパーエネルギー |슈퍼에너지<BR>LEVELID|神奇能量|爆炸特效
+KillBubble7|很好|Good |Bien |Gut |良い |잘 했어요<BR>LEVELID|很好|爆炸特效
+KillBubble8|非常好|Very good |Très bien |Sehr gut |大変良い |정말 잘 했어요<BR>LEVELID|非常好|爆炸特效
+KillBubble9|漂亮的射击|Nice Shoot|Joli tir|Toller Schuss|ナイスシュート|나이스샷|漂亮的射擊|爆炸特效
+KillBubble10|精彩|Wonderful|Superbe|Wunderbar|素晴らしい|멋져요|精彩|爆炸特效
+LoveFull|填满|Fill up|Plein|Voll|フル|가득 참|填滿|爆炸特效
+Loading|加载|Loading|Chargement|Lädt|読み込み中...|읽는 중|加載|体力加满
+ComboText|连击|Combo|Combo|Combo|コンボ|콤보|連擊|Loading
+InviteFriendsUITitle|邀请好友|Invite Friends|Inviter des amis|Lade Freunde ein|友達を招待する|친구 초대|邀請好友|ComboText
+InviteFriendsUIRemark|邀请更多好友获取钻石|Invite friends to get diamonds!|Inviter des amis pour obtenir des gemmes !|Lade Freunde ein， um Juwelen zu erhalten!|友達を招待して宝石をゲット!|친구를 초대하여 다이아몬드를 받아요!|邀請更多好友獲取鑽石|Invite Friends
+InviteFriendsUINumber|好友数量:|Friends Number:|Nombre d'amis :|Anzahl Freunde:|友達の番号:|친구 수 :|好友數量:|Invite Friends
+InviteFriendsUIBtn|邀请|Invite|Inviter|Einladen|招待|초대|邀請|Invite Friends
+MapSetFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|地图设置面板
+MapMailFaceBookConAwardText|免费|Free|Gratuit|Kostenlos|無料|무료|免費|地图Mail面板
+BubbleBuyTipText|只剩余10个泡泡了！|Only 10 Bubbles!|Seulement 10 Bulles !|Nur 10 Blasen!|バブルが10個だけ！|딱 버블 10개!|只剩餘10個泡泡了！|步数不足的提示
+SetUILanguage|语言|Language|Langue|Sprache|言語|언어|語言|设置界面语言按钮
+SetUILanguageChinese|中文|Chinese|Chinese|Chinesisch|中国語|중국어|中文|中文语言按钮
+SetUILanguageJapanese|日文|Japanese|Japanese|Japanisch|日本の|일본어 |日文|日文语言按钮
+SetUILanguageKorean|韩文|Korean|Korean|Koreanisch|韓国語|한국어|韓文|韩文语言按钮
+SetUILanguageEnglish|英文|English|English|Englisch|英語|영어|英文|英文语言按钮
+SetUILanguageFrench|法文|French|French|Franzßsisch|フランス語|프랑스어|法文|法文语言按钮
+SetUILanguageThai|泰语|Thai|Thai|thailßndisch|タイの|태국어|泰語|泰语语言按钮
+SetUILanguageRussian|俄文|Russian|Russian|Russisch|ロシア|러시아어|俄文|俄文语言按钮
+SetUILanguageGerman|德文|German|German|Deutsch|ドイツ語|독일어|德文|德文语言按钮
+SetUILanguagePortuguese|葡萄牙语|Portuguese|Portuguese|Portugiesisch|ポルトガル語|포르투갈어|葡萄牙語|葡萄牙语语言按钮
+SetUILanguageSpanish|西班牙文|Spanish|Spanish|Spanisch|スペイン語|스페인어|西班牙文|西班牙文语言按钮
+BuyGoldUIByDiamondsTitle|金币|Coins|Or|Gold|ゴールド|골드|金幣|购买金币标题
+FirstPacksTitle|首冲礼包|First Aid Package|Pack de premier secours|Erste-Hilfe-Paket|救急箱|응급처치 패키지|首沖禮包|首冲礼包标题
+FirstPacksBtn|充值|Regenerate|Recharger|Aufladen|救急箱|재충전|充值|首冲礼包按钮
+NovicepacksUITitle|新手礼包|Novice gift pack|Pack de débutant|Anfänger-Geschenkpaket|初心者ギフトパック|초보자 선물 패키지|新手禮包|新手礼包标题
+ChinaShopUITitle|商城|Shop|Magasin|Laden|ショップ|상점|商城|国内商店
+ChinaShopUIlibao|礼包|Package|Pack|Paket|パッケージ|패키지|禮包|国内商店
+ChinaShopUIdaoju|道具|Props|Accessoires|Gegenstände|小道具|소도구|道具|国内商店
+SigninUITitle|签到|Sign|Panneau|Eintragen|サイン|동의|簽到|签到
+SigninUIBtn|签到|Attendance Check|Panneau|Eintragen|サイン|출석 체크|簽到|签到按钮
+SigninUIBCount|累计签到   次|X Accumulated Login(s)|Enregistrements accumulés X fois|Insgesamt X-mal eingecheckt|チェックイン回数X回|누적 로그인|累計簽到   次|签到
+cdkeyUITtitle|兑换码|CDkey|CDkey|Gutscheincode|償還コード|% ßß|兌換碼|兑换码标题
+cdkeyUIRemarkTtitle|无|kong|kong|Spanisch|スペイン語|%ß|無|兑换码
+cdkeyUIRemarkText|1、各种非官方渠道获得的CDKEY都有可能无法兑换<BR>2、兑换码兑换后将直接获得奖励|兑换码立即失效<BR>3、兑换如果出现异常  您可以通过客服与我们联系。|兑换码立即失效<BR>4、兑换如果出现异常  您可以通过客服与我们联系。|兑换码立即失效<BR>5、兑换如果出现异常  您可以通过客服与我们联系。|兑换码立即失效<BR>6、兑换如果出现异常  您可以通过客服与我们联系。|兑换码立即失效<BR>7、兑换如果出现异常  您可以通过客服与我们联系。|兑换码立即失效<BR>8、兑换如果出现异常  您可以通过客服与我们联系。|兑换
+cdkeyUIButtonText|兑换|exchange|exchange|Anspruch|為替|ßß|兌換|兑换
+CdkeyErrorText1|兑换码无效|请输入正确的兑换码!|CDkey is invalid|CDkey is invalid|CDkey is invalid|CDkey is invalid|CDkey is invalid|兑换
+CdkeyErrorText2|兑换码无效或者已经使用|请查证后再次输入！|CDkey is invalid or be used<BR>Please check your CDkey!|CDkey is invalid or be used<BR>Please check your CDkey!|CDkey is invalid or be used<BR>Please check your CDkey!|CDkey is invalid or be used<BR>Please check your CDkey!|CDkey is invalid or be used<BR>Please check your CDkey!|兑换
+cdkeyEnterRemark|请输入兑换码|Input your code|Input your code|Input your code|Input your code|Input your code|Input your code|兑换
+UnSkillRemark0|第5关解锁|Unlock on Level 5|Débloqué au niveau 13|Verfügbar ab Level 13|レベル 5 でロックを解除|레벨 5에 잠금 해제|第5關解鎖|技能解锁
+UnSkillRemark1|第13关解锁|Unlock on Level 13|Débloqué au niveau 13|Verfügbar ab Level 13|レベル 13 でロックを解除|레벨 13에 잠금 해제|第13關解鎖|技能解锁
+UnSkillRemark2|第17关解锁|Unlock on Level 17|Débloqué au niveau 17|Verfügbar ab Level 17|レベル 17 でロックを解除|레벨 17에 잠금 해제|第17關解鎖|技能解锁
+UnSkillRemark3|第27关解锁|Unlock on Level 27|Débloqué au niveau 27|Verfügbar ab Level 27|レベル 27 でロックを解除|레벨 27에 잠금 해제|第27關解鎖|技能解锁
+BuyGoldSongText|送|Send|Envoyer|Senden|送信|보내기|送|买钻石
+PauseUIResStartText|重新开始|Restart|Recommencer|Neustart|再開|재시작|重新開始|暂停面板
+AdAwardUIOK|确定|OK|OK|OK|OK|확인|確定|广告奖励UI
+MapRewardUIRemark1|当前地图收集星星数量|Collected stars on current map|Collection de la carte actuelle|Akutelle Kartensammlung|現在のマップコレクション|현재 소장한 맵|當前地圖收集星星數量|地图奖励ui
+MapRewardUIRemark2|通关地图关卡积攒星星领取奖励吧!|Save the stars!|Sauver les étoiles !|Rette die Sterne!|星を救え!|별을 구해주세요!|通關地圖關卡積攢星星領取獎勵吧!|地图奖励ui
+MapRewardUIBtn|领取|Receive|Recevoir|Erhalten|受取る|받기|領取|地图奖励ui
+BuyGoldTitle1|宝石|Gems|Gemmes|Juwelen|宝石|보석|寶石|内购页面
+BuyGoldTitle2|礼包|Package|Pack|Paket|パッケージ|패키지|禮包|内购页面
+signintext1|签到|Sign|Panneau|Eintragen|サイン|서명|簽到|签到文本1
+signintext2|签到|Sign|Panneau|Eintragen|サイン|서명|簽到|签到文本2
+MapRewardUI1|第A1-A2关|Level A1-A2|Niveau A1~A2|Level A1 - A2|レベルA1-A2|레벨 A1-A2|第A1-A2關|暂时没有备注
+BuyLivesChinaUITitle|体力商店|Love Shop|Magasin de l'Amour|Liebesladen|ラブショップ|러브 상점|體力商店|暂时没有备注
+BuyLivesChinaUI1|已加满|Full|Plein|Voll|フル|가득 참|已加滿|暂时没有备注
+BuyLivesChinaUI2|下一颗生命|Next Love|Prochain Amour|Nächste Liebe|次のラブ|다음 사랑|下一顆生命|暂时没有备注
+MapLevelText1|A1-A2关|Level A1-A2|Niveau A1~A2|Level A1 - A2|レベルA1-A2|레벨 A1-A2|A1-A2關|暂时没有备注
+MapIcounUI1|第A1-A2关|Level A1-A2|Niveau A1~A2|Level A1 - A2|レベルA1-A2|레벨 A1-A2|第A1-A2關|暂时没有备注
+WinUILevelScoreTextChina|得分|Score|Score|Punkte|スコア|점수|得分|暂时没有备注
+LoseLevelText1|得分|Score|Score|Punkte|スコア|점수|得分|暂时没有备注
+BuySkillUIChina1|购买道具|Buy Skill|Acheter une compétence|Fähigkeit kaufen|スキルを購入する|스킬 구매|購買道具|暂时没有备注
+BuySkillUIChina2|$A1|$A1|$A1|$A1|$A1|$A1|$A1|暂时没有备注
+BuyGangUI1|$A1|$A1|$A1|$A1|$A1|$A1|$A1|暂时没有备注
+BuySkillUIChina3|立即购买|Pay|Payer|Bezahlen|支払う|결제|立即購買|暂时没有备注
+BuyGangUI2|立即购买|Pay|Payer|Bezahlen|支払う|결제|立即購買|暂时没有备注
+NowBuyBubbleUIPay|$A1|$A1|$A1|$A1|$A1|$A1|$A1|暂时没有备注
+ChinaShopUITitle1|精灵商店|Shop|Magasin|Laden|ショップ|상점|精靈商店|暂时没有备注
+ChinaShopUI1|礼包|Package|Pack|Paket|パッケージ|패키지|禮包|暂时没有备注
+ChinaShopUI2|道具|Prop|Accessoire|Gegenstand|小道具|소도구|道具|暂时没有备注
+ChinaShopUI3|钻石|Diamonds|Diamants|Diamanten|ダイヤモンド|다이아몬드|鑽石|暂时没有备注
+ChinaShopUI4|$A1|$A1|$A1|$A1|$A1|$A1|$A1|暂时没有备注
+ChinaShopUI5|首冲翻倍|Double|Double|Doppelt|ダブル|2배|首沖翻倍|暂时没有备注
+ChinaShopUI6|1小时|1 hours|A1 heures|A1 Std.|1 時間|1 시간|1小時|暂时没有备注
+ChinaShopUI7|刷新|Refresh|Rafraîchir|Aktualisieren|更新|새로고침|刷新|暂时没有备注
+ChinaShopUI8|下次刷新|Next refresh in|Prochain rafraîchissement dans|Nächste Aktualisierung in|次の更新まで|다음 새로고침까지 :|下次刷新|暂时没有备注
+ChinaShopUI9|A1折|20% off|A1 Vente|A1-Verkauf|20%オフ|20%할인|A1折|暂时没有备注
+ChinaShopUI10|限时x1|Time limit x1|Limiex1|Limiex1|制限時間 x 1|시간제한 x1|限時x1|暂时没有备注
+BuyDaojuUI1|购买道具|Buy Prop|Acheter accessoire|Gegenstand kaufen|小道具を購入する|소도구 구매|購買道具|暂时没有备注
+BuyDaojuUI2|一天内有效|1 day duration|Utiliser maintenant|Heute verwenden|今すぐ使う||一天內有效|暂时没有备注
+SignRewardUI0|签到有礼|Daily Rewards|Récompenses Quotidiennes|Tägliche Belohnung|今日のリワード|일일보상|簽到有禮|暂时没有备注
+SignRewardUI1|签到|Daily Rewards|Récompenses Quotidiennes|Tägliche Belohnung|今日のリワード|일일보상|簽到|暂时没有备注
+SignRewardUI2|明日可领|Tomorrow|Demain|Morgen|明日|내일|明日可領|暂时没有备注
+SignRewardUI3|已领取了|Received|Reçu|Erhalten|受取り済み|수령완료|已領取了|暂时没有备注
+SignRewardUI4|今日可领|Today|Aujourd'hui|Heute|今日|오늘|今日可領|暂时没有备注
+SignRewardUI5|后天可领|After Tomorrow|Après-demain|Übermorgen|明日以降|다음날 이후|後天可領|暂时没有备注
+SignRewardUI6|已过期了|Received|Passé|Abgelaufen|受取り済み|수령완료|已過期了|暂时没有备注
+SignRewardUI7|1天后可领|After 1 Day|Après A1 Jour|Nach A1 Tagen|1 日後|1일 후|1天後可領|暂时没有备注
+Reward24UITitle|新手礼包|Special Gift|Cadeau spécial|Spezielles Geschenk|特別なギフト|스페셜 선물|新手禮包|24小时新手礼包
+Reward24UIBtn|领取|Receive|Recevoir|Erhalten|受取る|받기|領取|24小时新手礼包
+Reward24UI1|第二天登录即可领取丰厚奖励|You Will Get This Gift Tomorrow!|Vous obtiendrez ce cadeau demain !|Du erhältst dieses Geschenk morgen!|明日このギフトをお届けします!|이 선물을 내일 받을 수 있어요!|第二天登錄即可領取豐厚獎勵|24小时新手礼包
+Reward24UI2|领取倒计时|Countdown|Compte à rebours|Countdown|カウントダウン|카운트다운|領取倒計時|暂时没有备注
+MapUnBtnText|解锁|Unlock|Débloquer|Freischalten|ロックを解除|잠금 해제|解鎖|暂时没有备注
+BeibaoTitleUi|背 包|bag|Sac|Tasche|バッグ|가방|背 包|暂时没有备注
+ChinaShopUI11|缺 货|Sale out|Vente terminée|Ausverkauft|売り切れ|매진|缺 貨|暂时没有备注
+BuyLoveMoney1|原价:A1|Original:A1|Original:A1|Original:A1|オリジナル: A1|원본 : A1|原價:A1|暂时没有备注
+ggplaybtntext1|登录|Login|Connexion|Login|ログイン|로그인|登錄|暂时没有备注
+ggplaybtntext2|退出|Out|Éteint|Aus|アウト|로그아웃|退出|暂时没有备注
+ggplaybtntext3|排行榜|Leaderboard|Classement|Rangliste|ランキングリスト|리더보드|排行榜|暂时没有备注
+ggplaybtntext4|成就|Achievement|Succès|Erfolge|成績|업적|成就|暂时没有备注
+ggplaybtntext5|谷歌|Google Play|Google Play|Google Play|Google Play|구글 플레이|穀歌|暂时没有备注
+videoText1|奖励列表|Bonus|Bonus|Bonus|ボーナス|보너스|獎勵列表|暂时没有备注
+videoText2|按奖励顺序授予|Rewards will be awarded sequentially|Les récompenses seront distribuées dans l'ordre|Belohnungen werden fortlaufend vergeben|リワードは順番に与えられます|보상은 순차적으로 지급됩니다|按獎勵順序授予|暂时没有备注
+videoText3|免费|Free|Gratuit|Kostenlos|無料|무료|免費|暂时没有备注
+IconName1|视频|Video|Vidéo|Video|ビデオ|동영상|視頻|暂时没有备注
+IconName2|排行榜|Rank|Classement|Rangliste|ランク|순위|排行榜|暂时没有备注
+IconName3|商店|Shop|Magasin|Laden|ショップ|상점|商店|暂时没有备注
+IconName4|背包|Bag|Sac|Tasche|バッグ|가방|背包|暂时没有备注
+IconName5|连登奖励|Continuous Daily Rewards|Récompenses quotidiennes continues|Kontinuierliche tägliche Belohnungen|毎日の連続報酬|지속적인 일일 보상|連登獎勵|暂时没有备注
+IconName6|兑换码|CDkey|CDkey|CDkey|スペイン語|CDkey|兌換碼|暂时没有备注
+NoticeText1|通知|Notice|NOTE|HINWEIS|お知らせ|공지|通知|体力商店的折扣标签
+NoticeText2|确认|OK|OK|OK|OK|확인|確認|体力商店的折扣标签
+NoticeText3|广告加载中|Ads are loading|Les pubs chargent|Anzeigen werden geladen|広告読み込み中|광고 읽어오는 중|廣告加載中|体力商店的折扣标签
+NoticeText4|保存数据吗?  (更新服务器 上的数据) |Do You want to save the the data to the server? (The data on the server is updated.) |Voulez-vous sauvegarder les données sur le serveur? (Les données sur le serveur sont mises à jour.) | Möchtest du deine Daten auf dem Server speichern? (Daten auf dem Server werden aktualisiert.) | サーバーにデータを保存しますか? (データ上のデータは更新されています) |서버에 데이터를 저장하시겠습니까 ? (서버의 데이터가 갱신됩니다.) |保存資料嗎?  (更新伺服器 上的資料) |体力商店的折扣标签
+NoticeText5|存档成功|Data saved successfully|Données sauvegardées avec succès|Daten gespeichert|データが正常に保存されました|데이터 저장 성공|存檔成功|体力商店的折扣标签
+NoticeText6|存档失败|Data save failed|La sauvegarde des données a échoué|Speichern fehlgeschlagen|データ保存に失敗しました|데이터 저장 실패|存檔失敗|体力商店的折扣标签
+NoticeText7|读取服务器 数据吗?  (更新手机的 数据) |Do You want to load data from the server? (The data on the device is updated.) |Voulez-vous charger les données depuis le serveur ? (Les données sur l'appareil sont mises à jour.) |Möchtest du deine Daten vom Server laden? (Daten auf dem Gerät werden aktualisiert.) |サーバーからデータを読み込みますか? (デバイスのデータは更新されています)|데이터를 서버에서 불러오시겠습니까 ? (기기내의 데이터가 업데이트 됩니다.) |讀取伺服器 數據嗎?  (更新手機的 數據) |体力商店的折扣标签
+NoticeText8|数据读取成功|Data read successfully|Données lues avec succès|Daten gelesen|データが正常に読み込まれました|데이터 불러오기 성공|數據讀取成功|体力商店的折扣标签
+NoticeText9|数据读取失败|Data read failed|La lecture des données a échoué.|Lesen der Daten fehlgeschlagen|データの読み込みに失敗しました|데이터 읽기 실패|數據讀取失敗|体力商店的折扣标签
+SettingsBtn1|存档|save|Sauvegarder|Speichern|保存|저장|存檔|体力商店的折扣标签
+SettingsBtn2|读档|Load|Charger|Laden|読み込み|불러오기|讀檔|体力商店的折扣标签
+SettingsBtn3|玩法|How To Play|Comment Jouer|Anleitung|プレイ方法|게임 방법|玩法|体力商店的折扣标签
+SettingsBtn4|游戏咨询|Support|Assistance|Support|サポート|지원|遊戲諮詢|体力商店的折扣标签
+SettingsBtn5|语言|Language|Langue|Sprache|言語|언어|語言|体力商店的折扣标签
+SettingsBtn6|隐私政策|Privacy Policy|Politique de Confidentialité|Datenschutzbestimmungen|プライバシー ポリシー|개인 정보 보호 정책|隱私政策|体力商店的折扣标签
+SettingsBtn7|服务条款|Terms of Service|Conditions d'Utilisation|Nutzungsbedingungen|プライバシーポリシー|이용 약관|服務條款|体力商店的折扣标签
+SettingsBtn8|推送设置|Push settings|Paramètres Push|Push-Nachrichten|プッシュ設定|푸시 알림|推送設置|体力商店的折扣标签
+SettingsBtn9|下一步|Next|Suivant|Weiter|次へ|다음|下一步|体力商店的折扣标签
+SettingsBtn10|确认|ok|OK|Ok|ok|ok|確認|服务条款确认
+SettingsPlaying1|闪电泡泡可以消除<BR>一行全部的泡泡！|Hit Flash Bubbles to clear all the lines' bubbles|Le Bocal Éclair élimine les bulles en suivant une ligne !|Der Blitztopf zerstört alle Blasen in einer Reihe!|フラッシュバブルにヒットすると雷が起こる！|섬광 버블을 맞추면  일렬로 있는 모든 버블을 제거할 수 있어요!|閃電泡泡可以消除<BR>一行全部的泡泡！|体力商店的折扣标签
+SettingsPlaying2|火焰罐子可以发生大爆炸！|Fire Blaster can make super boom|Le Bocal Feu cause une énorme explosion !|Der Feuertopf verursacht eine große Explosion!|ファイヤーブラスターはスーパーブームを生み出します|파이어 블래스터는 큰 폭발을 일으킵니다|火焰罐子可以發生大爆炸！|体力商店的折扣标签
+SettingsPlaying3|蔓藤罐子会生长！|Hit vine bubble to grow up|Le Bocal Vigne élimine les bulles alors qu'il grandit !|Der Rankentopf zerstört Blasen während er sprießt!|ツタバブルは何かにあたると育ち始める！|덩굴 버블을 맞추면 자랍니다.|蔓藤罐子會生長！|体力商店的折扣标签
+SettingsPlaying4|冰霜罐子可以允许你<BR>发射3个冰霜技能！|Ice Blast can shoot 3 ice bubbles|Le Bocal Gelé tire 3 Bulles de Glace !|Der Eistopf verschießt 3 Eisblasen auf einmal!|アイスブラストは3つの氷のバブルを撃つことができます|아이스 블래스트는 3개의 얼음 버블을 발사합니다|冰霜罐子可以允許你<BR>發射3個冰霜技能！|体力商店的折扣标签
+SettingsPlaying5|组合魔法形成强力组合技能！|Combine magic to form a powerful combination skill!|Combinez de la magie pour former de puissantes combinaisons de compétences !|Kombiniere Magie um eine mächtige Combo-Fähigkeit zu kreieren!|魔法を組み合わせて、パワフルなスキルを作ろう！|마법을 조합하여 강력한 컴비네이션 스킬 발동!|組合魔法形成強力組合技能！|体力商店的折扣标签
+SettingsPlaying6|炸弹泡泡可以帮你清除障碍！|Bomb Bubbles can help you clear the blocks|Utilisez une Bombe Bulle pour éliminer les obstacles !|Verwende Bombenblasen， um Hindernisse zu beseitigen!|爆弾バブルで障害物をクリア！|폭탄 버블을 사용하여 장애물을 제거하세요!|炸彈泡泡可以幫你清除障礙！|体力商店的折扣标签
+SettingsPlaying7|火箭炮可以清除路径上的全部泡泡！|Rocket Blaster can clear all the blocks on the tracks|Le lance-roquette détruit tous les blocs sur son passage|Raketenschuss vernichtet alle Blöcke in seiner Flugbahn.|ロケットブラスターはトラック上のすべてのブロックをクリアします|로켓 블래스터는 일렬로 있는 버블을 제거합니다|火箭炮可以清除路徑上的全部泡泡！|体力商店的折扣标签
+SettingsPlaying8|魔法精灵能消除与被击中<BR>泡泡同色的屏幕内所有泡泡！|Magic Elves can clear all the same color bubbles on the screen|Les Fées Magiques éliminent toutes les bulles d'une même couleur !|Die Fee zerstört alle Blasen einer bestimmten Farbe.|マジックエルフは、画面上の同じ色のバブルをすべてクリアできます|마법 엘프들은 화면에 있는 같은 색상 버블을 모두 없앨 수 있습니다|魔法精靈能消除與被擊中<BR>泡泡同色的螢幕內所有泡泡！|体力商店的折扣标签
+SettingsPlaying9|瞄准器让你瞄的更准！|Aiming Line make you more accurate |Les réfracteurs vont rendent plus précis !|Die Linse macht dich treffsicherer.|リフレクターを使ってもっと正確に！|굴절기는 명중률을 올려줍니다.|瞄準器讓你瞄的更准！|体力商店的折扣标签
+SettingsPlaying10|换球器可以让你在三个发射球中选择！|choose from 3 shooting bubbles|Le Lanceur de Bulles vous permet de choisir entre 3 bulles !|Die Blasenkanone bietet dir die Auswahl aus 3 Blasentypen!|3つのシューティングバブルから選択|발사되는 거품 3개 중 선택하여 주세요|換球器可以讓你在三個發射球中選擇！|体力商店的折扣标签
+SettingsPlaying11|魔法能量帮助你开局时<BR>随机补充一个魔法!|Magic Energy give you a skill randomly when you start playing|Commencez avec un Bocal rempli de magie|Beginne mit einem zufälligen mit Magie gefüllten Topf.|マジックエネルギーは、プレー中にランダムにスキルを与えます|마법 에너지는 라운드를 시작할 때 무작위 스킬을 줍니다|魔法能量幫助你開局時<BR>隨機補充一個魔法!|体力商店的折扣标签
+gameinfo1|隐私和服务条款|Privacy Policy and Terms of Service|Politique de Confidentialité et Conditions d'Utilisation|Datenschutzrichtlinier und Nutzungsbedingungen|サービスとプライバシーの条件|서비스 및 개인 정보 보호 약관|隱私和服務條款|
+gameinfo2|我接受|accept|Accepter|Zustimmen|承諾|동의|我接受|服务条款首次登陆时候
+gameinfo3|确认|OK|OK|OK|OK|OK|確認|服务条款首次登陆时候
+ShopDaojuInfo4|瞄 准 器|Aiming Reticle|Un appareil de visée|Ein Zielgerät|照準装置|조준 장치|瞄 准 器|商店道具界面
+ShopDaojuInfo4_1|让 你 瞄 的 更 准|make you more accurate|Vous aide à viser plus précisément|Verbessert deine Treffsicherheit|もっと正確に照準 を合わせよう|조준을 향상해 줍니다.|讓 你 瞄 的 更 准|商店道具界面
+ShopDaojuInfo5|换 球 器|Change bubble|Changer de bulle|Wechselblase|バブルを変更|버블 변경|換 球 器|商店道具界面
+ShopDaojuInfo5_1|在 三 个 发 射 球 中 选 择|choose from 3 shooting bubbles|Une bulle supplémentaire optionnelle à lancer|Eine optionale Extra-Blase kann verschossen werden|3つのシューティ ングバブルから選択|발사되는 거품 3개 중 선택하여 주세요|在 三 個 發 射 球 中 選 擇|商店道具界面
+ShopDaojuInfo6|泡 泡 仪|Bubble meter|Compteur de bulles|Blasenmeter|バブルメーター|버블 미터|泡 泡 儀|商店道具界面
+ShopDaojuInfo6_1|增 加 1 0 个 发 射 泡 泡|Adds 10 bubbles to the counter|Ajoute 10 bulles au compteur|Fügt 10 Blasen hinzu|カウンターにバブ ルを10個追加|카운터에 버블 10개 추가|增 加 1 0 個 發 射 泡 泡|商店道具界面
+ShopDaojuInfo7|炸 弹 泡 泡|Bomb bubble|Bulle bombe|Blasenbombe|爆弾バブル|폭탄 버블|炸 彈 泡 泡|商店道具界面
+ShopDaojuInfo7_1|消 除 目 标 周 围 的 障 碍|Clears bubbles around the target|Détruisez les bulles autour de la cible|Zerstört die Blasen um ein Ziel herum|ターゲットの周り のバブルをクリア|목표 지점 주변에 버블을 제거합니다|消 除 目 標 周 圍 的 障 礙|商店道具界面
+ShopDaojuInfo8|火 箭 炮|Rocke Blaster|Lance-Roquette|Raketenschuss|ロケットブラスター|로켓 블래스터|火 箭 炮|商店道具界面
+ShopDaojuInfo8_1|清 除 路 径 上 的 全 部 泡 泡|Clears all bubbles on the path|Détruisez toutes les bulles sur la route|Zerstört alle Blasen in seiner Flugbahn|行き先のバブルを すべてクリア|궤적에 모든 버블을 제거합니다|清 除 路 徑 上 的 全 部 泡 泡|商店道具界面
+ShopDaojuInfo9|魔 法 精 灵|Eliminates|Fée Magique|Fee|魔法の妖精|마법 요정|魔 法 精 靈|商店道具界面
+ShopDaojuInfo9_1|消 除 同 色 的 泡 泡|Eliminates bubbles of the same color|Détruisez les bulles de la même couleur|Zerstört die Blasen derselben Farbe|同じ色のバブルを 消去|같은 색상의 버블을 제거합니다|消 除 同 色 的 泡 泡|商店道具界面
+ShopDaojuInfo10|1 0 0 0 0 金 币|10000Gold|10000 Or|10000 Gold|10000 Gold|10000 골드|1 0 0 0 0 金 幣|商店道具界面
+ShopDaojuInfo10_1|1 0 0 0 0 金 币|10000Gold|10000 Or|10000 Gold|10000 Gold|10000 골드|1 0 0 0 0 金 幣|商店道具界面
+ShopDaojuInfo11|3 0 0 0 0 金 币|30000Gold|30000 Or|30000 Gold|30000 Gold|30000 골드|3 0 0 0 0 金 幣|商店道具界面
+ShopDaojuInfo11_1|3 0 0 0 0 金 币|30000Gold|30000 Or|30000 Gold|30000 Gold|30000 골드|3 0 0 0 0 金 幣|商店道具界面
+BuybubbleText1|哇哦|Wow|Wow|Wow|Wow|Wow|哇哦|买球界面
+BuybubbleText2|购买|Buy|Acheter|Kaufen|うわー、勝てそう!|무료|購買|买球界面
+AdRewardText1|免费领钻石|Free Diamonds|Diamants Gratuits|Kostenlose Diamanten|購入する|무료 다이아몬드|免費領鑽石|商店钻石界面
+AdRewardText2|免费|Free|Gratuit|Kostenlos|無料|무료|免費|商店钻石界面
+BuyDoubleText|双倍|Double|Double|Doppelt|ダブル|두 배|雙倍|商店钻石界面
+WinLevelText|关卡|LEVEL|Niveau|LEVEL|レベル|레벨|關卡|胜利界面标题
+WinLevelText1|LV.|LV.|LV.|LV.|LV.|LV.|LV.|胜利界面标题
+qiandaoText1|七天签到|7 Daily Rewards|7 Récompenses quotidiennes|7-Tage-Belohnungen|7つのデイリーリワード|7개의 일일보상|七天簽到|七天签到
+qiandaoText2|领取|Receive|Recevoir|Erhalten|受取る|받기|領取|七天签到
+qiandaoText3|七天签到描述|7 Daily Rewards des|la description de sept recompenses quotidiennes|7-Tage-Belohnung|7つのデイリーリワードdes|7개의 일일보상|七天簽到描述|七天签到
+buylivefulltitle|更多体力|More lives|Plus de vies|Mehr Leben|さらに多くのライフ|추가 라이프|更多體力|体力购买
+buylivefull|用钻石来恢复体力|Use diamonds to restore live|Utilisez des diamants pour récupérer des vies|Diamanten verwenden um Leben wiederherzustellen|ダイアモンドを使ってライフを復元|다이아몬드를 사용하여 라이프를 복구합니다|用鑽石來恢復體力|体力购买
+MapTitle1|地图|Maps|Carte|Karte|マップ|맵|地圖|地图标题
+BuyBubbleRemark5|购买5个泡泡继续游戏!|Buy 5 bubbles to continue!|Achetez 5 bulles pour continuer le jeu!|Kaufe 5 Bläschen， um weiterzuspielen!|バブル5個を購入してコンティニュ！|방울을 5개 구매하여 게임을 계속하기!|購買5個泡泡繼續遊戲!|购买步数说明
+shoprefresh1|商店刷新|Refresh|Rafraîchir|Aktualisieren|更新|새로고침|商店刷新|商店刷新
+shoprefresh2|确定要花费25钻石来刷新商店吗？|Do you want to refresh now by spending 25 Diamonds?|Voulez-vous actualiser maintenant pour 25 Diamants ?|Möchtest du jetzt eine Akualisierung für 25 Diamanten durchführen?|25個のダイアモンドを使って、 いますぐ更新しますか？|다이아몬드 25개로 상점을 새로고침 하시겠습니까?|確定要花費25鑽石來刷新商店嗎？|商店刷新
+ShopDaojuInfo3|魔 法 能 量|PowerEnergy |Énergie |Energie |パワーエネルギー |파워에너지 |魔 法 能 量|爆炸特效
+ShopDaojuInfo3_1|进入游戏内随机填 充一个魔法技能！|Get a magical skill randomly when you playing|Commencez avec un Bocal rempli de magie|Beginne mit einem zufälligen mit Magie gefüllten Topf.|プレー中にランダ ムに魔法のスキル をゲット|게임을 플레이할 때 마법 스킬을 무작위로 얻습니다|進入遊戲內隨機填 充一個魔法技能！|购买技能说明
+Piggytitle|存钱罐|Piggy Bank|Tirelire Cochon|Sparschwein|Piggy Bank|돼지 저금통|存錢罐|金猪标题
+Piggyremark1|储蓄至少4500个硬币打开你的存钱罐吧！|Save at least 4500 coins to open your piggy bank |Économisez au moins 4500 pièces pour ouvrir votre tirelire cochon.|Spare mindestens 4500 Münzen, um dein Sparschwein zu öffnen.|Save at least 4500 coins to open your piggy bank |4500코인을 모아 돼지 저금통을 열어보세요.|儲蓄至少4500個硬幣打開你的存錢罐吧！|金猪说明
+Piggyremark2|没有多余的空间来储蓄金币了，快打开吧！|There is no space left to save coins. Open it to collect your earnings.|Il n'y a plus de place suffisante pour stocker d'autres pièces. Ouvrez-la et récupérez vos gains.|Es gibt keinen Platz für weitere Münzen. Öffne es, um deine Ersparnisse zu sammeln.|There is no space left to save coins. Open it to collect your earnings.|저금통이 가득 차면 더 이상 코인을 모을 수 없습니다! |沒有多餘的空間來儲蓄金幣了，快打開吧！|金猪说明
+Piggyremark3|满了|Full|Plein|Voll|Full|가득참|滿了|金猪说明
+Levelrewardtitle|关卡宝箱|special reward |Récompense spéciale|Spezialbelohnung|special reward |특별보상|關卡寶箱|关卡宝箱标题
+Levelrewardremark|还差10个关卡可打开|Clear 10 levels to receive special reward |Terminez 10 niveaux pour recevoir une récompense spéciale|Beende 10 Level, um eine Spezialbelohnung zu erhalten.|Clear 10 levels to receive special reward |10 레벨을 클리어하여 특별보상을 획득하세요.|還差10個關卡可打開|关卡宝箱描述
+Continuetitle|连续成功|Success streak|Série de succès|Erfolgssträhne|Success streak|연속 성공|連續成功|连续成功标题
+Continueremark1|连续成功，下个关卡开始时获得奖励|Earn Power-up Boosters by clearing a new level!|Gagnez des Boosts de Puissance en terminant un nouveau niveau!|Erhalte Stärkungen durch das Beenden neuer Level!|Earn Power-up Boosters by clearing a new level!| 레벨 클리어 시 파워업 부스터 획득!|連續成功，下個關卡開始時獲得獎勵|连续成功描述
+Continueremark2|恭喜|Congratulations!|Félicitations !|Glückwunsch!|Congratulations!|축하드립니다!|恭喜|连续成功奖励标题
+Continueremark3|下个关卡开始时，你将获得*|Receive a(n) * at the beginning of the next level.|Vous recevrez un(e) * au début du prochain niveau.|Erhalte * zu Beginn des nächsten Levels.|Receive a(n) * at the beginning of the next level.|다음 레벨 시작 전에 *을(를) 획득합니다.|下個關卡開始時，你將獲得*|连续成功奖励描述
+Continueremark4|点击继续|Tap to continue|Appuyez pour continuer|Tippe, um fortzufahren|Tap to continue|탭 하여 다음으로 이동하세요|點擊繼續|连续成功奖励描述
+Continueremark5|你将失去奖励|you will lose the reward!|Vous allez perdre la récompense !|Du wirst deine Belohnung verlieren!|you will lose the reward!|보상을 잃게 됩니다!|你將失去獎勵|连续成功重开、退出、购买步数描述

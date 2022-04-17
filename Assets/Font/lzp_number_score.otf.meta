@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4da759c21a8c45359b1135b1f4075545
+timeCreated: 1588168613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "lzp_number_score"
+  fontNames:
+  - Chaparral Pro
+  - lzp_number
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+编号,名字,描述,名字,描述,描述
+id,name,remark,nameen,remarken,描述
+3,ShopDaojuInfo3,ShopDaojuInfo3_1,Aiming,Aiming more accurate,描述
+4,ShopDaojuInfo4,ShopDaojuInfo4_1,Aiming,Aiming more accurate,描述
+5,ShopDaojuInfo5,ShopDaojuInfo5_1,ChangeBall,one more shoots to choose,描述
+6,ShopDaojuInfo6,ShopDaojuInfo6_1,ADDBubble,Increase 10 bubbles,描述
+7,ShopDaojuInfo7,ShopDaojuInfo7_1,Boom,Clear blocks around the target,描述
+8,ShopDaojuInfo8,ShopDaojuInfo8_1,Magic Arrow,Clear all in it's way,描述
+9,ShopDaojuInfo9,ShopDaojuInfo9_1,Magic Elf,Clear Same bubbles,描述

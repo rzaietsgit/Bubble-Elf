@@ -1,0 +1,20 @@
+
+ui_loading.png
+size: 217,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/loading_.
+  rotate: false
+  xy: 2, 144
+  size: 17, 17
+  orig: 20, 52
+  offset: 2, 6
+  index: -1
+images/loading_loading
+  rotate: false
+  xy: 2, 163
+  size: 213, 52
+  orig: 214, 52
+  offset: 0, 0
+  index: -1

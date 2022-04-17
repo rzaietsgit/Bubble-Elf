@@ -1,0 +1,83 @@
+
+mu_remove.png
+size: 1014,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_muqiu_boom_00
+  rotate: false
+  xy: 73, 48
+  size: 69, 68
+  orig: 446, 443
+  offset: 201, 182
+  index: -1
+res/fx_muqiu_boom_01
+  rotate: false
+  xy: 2, 118
+  size: 69, 69
+  orig: 446, 443
+  offset: 201, 181
+  index: -1
+res/fx_muqiu_boom_02
+  rotate: false
+  xy: 2, 47
+  size: 69, 69
+  orig: 446, 443
+  offset: 201, 181
+  index: -1
+res/fx_muqiu_boom_03
+  rotate: false
+  xy: 73, 118
+  size: 69, 69
+  orig: 446, 443
+  offset: 201, 181
+  index: -1
+res/fx_muqiu_boom_04
+  rotate: true
+  xy: 762, 704
+  size: 308, 250
+  orig: 446, 443
+  offset: 76, 87
+  index: -1
+res/fx_muqiu_boom_05
+  rotate: true
+  xy: 380, 204
+  size: 380, 309
+  orig: 446, 443
+  offset: 38, 57
+  index: -1
+res/fx_muqiu_boom_06
+  rotate: true
+  xy: 691, 14
+  size: 295, 303
+  orig: 446, 443
+  offset: 82, 70
+  index: -1
+res/fx_muqiu_boom_07
+  rotate: false
+  xy: 691, 311
+  size: 319, 336
+  orig: 446, 443
+  offset: 66, 52
+  index: -1
+res/fx_muqiu_boom_08
+  rotate: false
+  xy: 412, 649
+  size: 348, 363
+  orig: 446, 443
+  offset: 49, 34
+  index: -1
+res/fx_muqiu_boom_09
+  rotate: false
+  xy: 2, 189
+  size: 376, 395
+  orig: 446, 443
+  offset: 33, 15
+  index: -1
+res/fx_muqiu_boom_10
+  rotate: false
+  xy: 2, 586
+  size: 408, 426
+  orig: 446, 443
+  offset: 15, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+mofa_jian_fly.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/95
+  rotate: false
+  xy: 2, 59
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/arrow_arcane
+  rotate: true
+  xy: 2, 2
+  size: 55, 112
+  orig: 64, 128
+  offset: 5, 6
+  index: -1
+images/arrow_arcane_light
+  rotate: false
+  xy: 132, 62
+  size: 37, 125
+  orig: 64, 128
+  offset: 14, 3
+  index: -1

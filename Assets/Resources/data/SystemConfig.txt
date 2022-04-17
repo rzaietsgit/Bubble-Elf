@@ -1,0 +1,20 @@
+编号,值,描述
+K,V,描述
+Gang1,90,罐子的价格 海外版本
+Gang2,90,罐子的价格 海外版本
+Gang3,90,罐子的价格 海外版本
+Gang4,90,罐子的价格 海外版本
+GangChina1,20,罐子的价格 国内版本
+GangChina2,20,罐子的价格 国内版本
+GangChina3,20,罐子的价格 国内版本
+GangChina4,20,罐子的价格 国内版本
+GameSkill4,80,1技能的价格 国内版本
+GameSkill5,100,2技能的价格 国内版本
+GameSkill6,80,3技能的价格 国内版本
+BuyBubble1,100,游戏进行中购买5步的价格
+BuyBubbleChina1,200,游戏进行中购买10步的价格
+BuyBubble2,99,游戏进行中购买10步的价格
+BuyBubbleChina2,400,游戏进行中购买10步的价格
+BuyLive,25,补充体力需要多少钻石
+BuyLiveChina,1000,补充体力需要多少钻石
+BuyLiveChina0,2000,补充体力需要多少钻石 原价

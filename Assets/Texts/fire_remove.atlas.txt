@@ -1,0 +1,370 @@
+
+fire_remove.png
+size: 756,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bomb/bomb_01
+  rotate: true
+  xy: 280, 10
+  size: 70, 82
+  orig: 200, 185
+  offset: 68, 56
+  index: -1
+images/bomb/bomb_02
+  rotate: false
+  xy: 2, 194
+  size: 154, 172
+  orig: 200, 185
+  offset: 19, 13
+  index: -1
+images/bomb/bomb_03
+  rotate: false
+  xy: 2, 569
+  size: 198, 185
+  orig: 200, 185
+  offset: 0, 0
+  index: -1
+images/bomb/bomb_04
+  rotate: true
+  xy: 2, 368
+  size: 199, 174
+  orig: 200, 185
+  offset: 1, 11
+  index: -1
+images/bomb/bomb_05
+  rotate: false
+  xy: 202, 586
+  size: 199, 168
+  orig: 200, 185
+  offset: 0, 12
+  index: -1
+images/bomb/bomb_06
+  rotate: true
+  xy: 2, 28
+  size: 164, 156
+  orig: 200, 185
+  offset: 23, 24
+  index: -1
+images/bomb/bomb_07
+  rotate: false
+  xy: 403, 600
+  size: 169, 154
+  orig: 200, 185
+  offset: 20, 21
+  index: -1
+images/bomb/bomb_08
+  rotate: false
+  xy: 574, 615
+  size: 164, 139
+  orig: 200, 185
+  offset: 23, 30
+  index: -1
+images/bomb/bomb_09
+  rotate: false
+  xy: 427, 469
+  size: 141, 129
+  orig: 200, 185
+  offset: 18, 33
+  index: -1
+images/bomb/bomb_10
+  rotate: true
+  xy: 305, 441
+  size: 143, 120
+  orig: 200, 185
+  offset: 18, 40
+  index: -1
+images/bomb/bomb_11
+  rotate: false
+  xy: 429, 230
+  size: 114, 113
+  orig: 200, 185
+  offset: 43, 43
+  index: -1
+images/bomb/bomb_12
+  rotate: false
+  xy: 401, 42
+  size: 97, 77
+  orig: 200, 185
+  offset: 50, 50
+  index: -1
+images/fireRemove_00000
+  rotate: true
+  xy: 570, 454
+  size: 73, 74
+  orig: 330, 320
+  offset: 124, 135
+  index: -1
+images/fireRemove_00001
+  rotate: false
+  xy: 574, 529
+  size: 86, 84
+  orig: 330, 320
+  offset: 116, 146
+  index: -1
+images/fireRemove_00002
+  rotate: true
+  xy: 510, 133
+  size: 95, 93
+  orig: 330, 320
+  offset: 114, 150
+  index: -1
+images/fireRemove_00003
+  rotate: false
+  xy: 272, 205
+  size: 104, 94
+  orig: 330, 320
+  offset: 114, 155
+  index: -1
+images/fireRemove_00004
+  rotate: false
+  xy: 178, 307
+  size: 125, 114
+  orig: 330, 320
+  offset: 104, 157
+  index: -1
+images/fireRemove_00005
+  rotate: true
+  xy: 160, 63
+  size: 131, 118
+  orig: 330, 320
+  offset: 101, 159
+  index: -1
+images/fireRemove_00006
+  rotate: true
+  xy: 305, 301
+  size: 138, 122
+  orig: 330, 320
+  offset: 97, 165
+  index: -1
+images/fireRemove_00007
+  rotate: true
+  xy: 178, 423
+  size: 144, 125
+  orig: 330, 320
+  offset: 97, 166
+  index: -1
+images/fireRemove_00008
+  rotate: false
+  xy: 429, 345
+  size: 133, 122
+  orig: 330, 320
+  offset: 103, 171
+  index: -1
+images/fireRemove_00009
+  rotate: true
+  xy: 280, 82
+  size: 121, 119
+  orig: 330, 320
+  offset: 112, 175
+  index: -1
+images/fireRemove_00010
+  rotate: true
+  xy: 158, 196
+  size: 109, 112
+  orig: 330, 320
+  offset: 116, 180
+  index: -1
+images/fireRemove_00011
+  rotate: false
+  xy: 401, 121
+  size: 107, 107
+  orig: 330, 320
+  offset: 119, 183
+  index: -1
+images/fireRemove_00012
+  rotate: true
+  xy: 545, 250
+  size: 93, 89
+  orig: 330, 320
+  offset: 125, 191
+  index: -1
+images/fireRemove_00013
+  rotate: true
+  xy: 662, 533
+  size: 80, 71
+  orig: 330, 320
+  offset: 128, 203
+  index: -1
+images/fireRemove_00014
+  rotate: false
+  xy: 564, 387
+  size: 65, 65
+  orig: 330, 320
+  offset: 133, 209
+  index: -1
+images/fireRemove_00015
+  rotate: true
+  xy: 605, 133
+  size: 52, 56
+  orig: 330, 320
+  offset: 145, 210
+  index: -1
+images/fireRemove_00016
+  rotate: false
+  xy: 378, 242
+  size: 46, 57
+  orig: 330, 320
+  offset: 150, 210
+  index: -1
+images/fireRemove_00017
+  rotate: false
+  xy: 564, 349
+  size: 30, 36
+  orig: 330, 320
+  offset: 149, 231
+  index: -1
+images/fireRemove_00018
+  rotate: false
+  xy: 596, 363
+  size: 31, 22
+  orig: 330, 320
+  offset: 148, 232
+  index: -1
+images/fireRemove_00019
+  rotate: true
+  xy: 426, 297
+  size: 2, 1
+  orig: 330, 320
+  offset: 177, 253
+  index: -1
+images/fireRemove_00020
+  rotate: true
+  xy: 426, 297
+  size: 2, 1
+  orig: 330, 320
+  offset: 177, 253
+  index: -1
+images/fireRemove_00021
+  rotate: true
+  xy: 426, 297
+  size: 2, 1
+  orig: 330, 320
+  offset: 177, 253
+  index: -1
+images/fireRemove_00022
+  rotate: true
+  xy: 426, 297
+  size: 2, 1
+  orig: 330, 320
+  offset: 177, 253
+  index: -1
+images/fireRemove_00023
+  rotate: true
+  xy: 426, 297
+  size: 2, 1
+  orig: 330, 320
+  offset: 177, 253
+  index: -1
+images/huijin/huijin_01
+  rotate: false
+  xy: 646, 462
+  size: 64, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/huijin/huijin_02
+  rotate: false
+  xy: 631, 387
+  size: 64, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/huijin/huijin_03
+  rotate: false
+  xy: 636, 320
+  size: 64, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/huijin/huijin_04
+  rotate: false
+  xy: 636, 253
+  size: 64, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/huijin/huijin_05
+  rotate: false
+  xy: 510, 68
+  size: 64, 63
+  orig: 65, 65
+  offset: 0, 2
+  index: -1
+images/huijin/huijin_06
+  rotate: true
+  xy: 500, 2
+  size: 64, 63
+  orig: 65, 65
+  offset: 0, 2
+  index: -1
+images/huijin/huijin_07
+  rotate: false
+  xy: 576, 68
+  size: 62, 63
+  orig: 65, 65
+  offset: 0, 2
+  index: -1
+images/huijin/huijin_08
+  rotate: false
+  xy: 565, 3
+  size: 62, 63
+  orig: 65, 65
+  offset: 0, 2
+  index: -1
+images/huijin/huijin_09
+  rotate: false
+  xy: 605, 187
+  size: 61, 61
+  orig: 65, 65
+  offset: 0, 4
+  index: -1
+images/huijin/huijin_10
+  rotate: false
+  xy: 209, 6
+  size: 60, 55
+  orig: 65, 65
+  offset: 0, 10
+  index: -1
+images/huijin/huijin_11
+  rotate: true
+  xy: 668, 191
+  size: 60, 55
+  orig: 65, 65
+  offset: 0, 10
+  index: -1
+images/huijin/huijin_12
+  rotate: true
+  xy: 160, 2
+  size: 59, 47
+  orig: 65, 65
+  offset: 0, 18
+  index: -1
+images/huijin/huijin_13
+  rotate: true
+  xy: 364, 22
+  size: 58, 34
+  orig: 65, 65
+  offset: 1, 31
+  index: -1
+images/huijin/huijin_14
+  rotate: false
+  xy: 2, 5
+  size: 41, 21
+  orig: 65, 65
+  offset: 4, 44
+  index: -1
+images/huijin/huijin_15
+  rotate: true
+  xy: 735, 583
+  size: 30, 19
+  orig: 65, 65
+  offset: 4, 44
+  index: -1
+images/huijin/huijin_16
+  rotate: true
+  xy: 158, 336
+  size: 30, 18
+  orig: 65, 65
+  offset: 4, 44
+  index: -1

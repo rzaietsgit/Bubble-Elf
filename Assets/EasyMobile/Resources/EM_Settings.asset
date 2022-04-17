@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4452e2410c04b34915077cbe0f3a4d, type: 3}
+  m_Name: EM_Settings
+  m_EditorClassIdentifier: 
+  _advertisingSettings:
+    _iosAdColonyConfig:
+      appId: 
+      interstitialAdId: 
+      rewardedAdId: 
+    _androidAdColonyConfig:
+      appId: 
+      interstitialAdId: 
+      rewardedAdId: 
+    _adColonyAdOrientation: 2
+    _adColonyShowRewardedAdPrePopup: 0
+    _adColonyShowRewardedAdPostPopup: 0
+    _iosAdMobConfig:
+      bannerAdId: ca-app-pub-3940256099942544/6300978111
+      interstitialAdId: ca-app-pub-3940256099942544/1033173712
+      rewardedAdId: ca-app-pub-3940256099942544/5224354917
+    _androidAdMobConfig:
+      bannerAdId: 
+      interstitialAdId: ca-app-pub-7694563285759760/9943992997
+      rewardedAdId: ca-app-pub-7694563285759760/6004747983
+    _admobDesignedForFamilies: 0
+    _adMobChildDirected: 2
+    _admobEnableTestMode: 0
+    _admobTestDeviceIds: []
+    _heyzapPublisherId: 
+    _heyzapShowTestSuite: 0
+    _autoLoadDefaultAds: 1
+    _adCheckingInterval: 10
+    _adLoadingInterval: 20
+    _iosDefaultAdNetworks:
+      bannerAdNetwork: 0
+      interstitialAdNetwork: 0
+      rewardedAdNetwork: 0
+    _androidDefaultAdNetwork:
+      bannerAdNetwork: 2
+      interstitialAdNetwork: 2
+      rewardedAdNetwork: 2
+  _gameServiceSettings:
+    _gpgsDebugLog: 0
+    _autoInit: 1
+    _autoInitDelay: 0
+    _androidMaxLoginRequests: 3
+    _leaderboards:
+    - _name: Level complete
+      _iosId: 
+      _androidId: CgkIpJOL7aQPEAIQAQ
+    _achievements: []
+    _androidXmlResources: "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!--Google
+      Play game services IDs. Save this file as res/values/games-ids.xml in your
+      project.-->\r\n<resources>\r\n  <!--app_id-->\r\n  <string name=\"app_id\"
+      translatable=\"false\">525288524196</string>\r\n  <!--package_name-->\r\n 
+      <string name=\"package_name\" translatable=\"false\">com.bubble.pop.myth</string>\r\n 
+      <!--leaderboard Level complete-->\r\n  <string name=\"leaderboard_level_complete\"
+      translatable=\"false\">CgkIpJOL7aQPEAIQAQ</string>\r\n</resources>"
+  _inAppPurchaseSettings:
+    _targetAndroidStore: 0
+    _validateAppleReceipt: 0
+    _validateGooglePlayReceipt: 0
+    _products:
+    - _name: bubble_lb1
+      _type: 0
+      _id: bubble_lb1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 1
+    - _name: bubble_lb2
+      _type: 0
+      _id: bubble_lb2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_lb3
+      _type: 0
+      _id: bubble_lb3
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_gold4
+      _type: 0
+      _id: bubble_gold4
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_gold5
+      _type: 0
+      _id: bubble_gold5
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: adsfree
+      _type: 0
+      _id: adsfree
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_gold1
+      _type: 0
+      _id: bubble_gold1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_gold2
+      _type: 0
+      _id: bubble_gold2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_gold3
+      _type: 0
+      _id: bubble_gold3
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: fivelives
+      _type: 0
+      _id: fivelives
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: twohourunlimitedlives
+      _type: 0
+      _id: twohourunlimitedlives
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buybubble2
+      _type: 0
+      _id: buybubble2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: bubble_lb4
+      _type: 0
+      _id: bubble_lb4
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buybubble1
+      _type: 0
+      _id: buybubble1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: yiyuantehuilibao
+      _type: 0
+      _id: yiyuantehuilibao
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: vipplayer
+      _type: 0
+      _id: vipplayer
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill1
+      _type: 0
+      _id: gameskill1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill2
+      _type: 0
+      _id: gameskill2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill3
+      _type: 0
+      _id: gameskill3
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill4
+      _type: 0
+      _id: gameskill4
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill5
+      _type: 0
+      _id: gameskill5
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: gameskill6
+      _type: 0
+      _id: gameskill6
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buygang1
+      _type: 0
+      _id: buygang1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buygang2
+      _type: 0
+      _id: buygang2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buygang3
+      _type: 0
+      _id: buygang3
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: buygang4
+      _type: 0
+      _id: buygang4
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: first_pay
+      _type: 0
+      _id: first_pay
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: live_pack
+      _type: 0
+      _id: live_pack
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: any_way_pack_1
+      _type: 0
+      _id: any_way_pack_1
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: any_way_pack_2
+      _type: 0
+      _id: any_way_pack_2
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: any_way_pack_3
+      _type: 0
+      _id: any_way_pack_3
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_12
+      _type: 0
+      _id: pack_pass_12
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_30
+      _type: 0
+      _id: pack_pass_30
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_68
+      _type: 0
+      _id: pack_pass_68
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_128
+      _type: 0
+      _id: pack_pass_128
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_328
+      _type: 0
+      _id: pack_pass_328
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_6
+      _type: 0
+      _id: pack_pass_double_6
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_12
+      _type: 0
+      _id: pack_pass_double_12
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_30
+      _type: 0
+      _id: pack_pass_double_30
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_68
+      _type: 0
+      _id: pack_pass_double_68
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_128
+      _type: 0
+      _id: pack_pass_double_128
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+    - _name: pack_pass_double_328
+      _type: 0
+      _id: pack_pass_double_328
+      _price: 
+      _description: 
+      _storeSpecificIds: []
+      _isEditingAdvanced: 0
+  _notificationSettings:
+    _autoInit: 1
+    _autoInitDelay: 0
+    _oneSignalAppId: 
+  _ratingRequestSettings:
+    _defaultRatingDialogContent:
+      _title: Rate $PRODUCT_NAME
+      _message: How would you rate $PRODUCT_NAME?
+      _lowRatingMessage: That's bad. Would you like to give us some feedback instead?
+      _highRatingMessage: Awesome! Let's do it!
+      _postponeButtonText: Not Now
+      _refuseButtonText: Don't Ask Again
+      _rateButtonText: Rate Now!
+      _cancelButtonText: Cancel
+      _feedbackButtonText: Send Feedback
+    _minimumAcceptedStars: 4
+    _supportEmail: 
+    _iosAppId: 
+    _annualCap: 12
+    _delayAfterInstallation: 10
+    _coolingOffPeriod: 10
+    _ignoreContraintsInDevelopment: 0
+  _isAdModuleEnable: 0
+  _isIAPModuleEnable: 1
+  _isGameServiceModuleEnable: 1
+  _isNotificationModuleEnable: 0
+  _activeModuleIndex: 2

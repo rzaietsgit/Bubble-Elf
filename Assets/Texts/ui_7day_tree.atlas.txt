@@ -1,0 +1,300 @@
+
+ui_7day_tree.png
+size: 537,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 52
+  size: 218, 483
+  orig: 218, 484
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 222, 470
+  size: 220, 65
+  orig: 221, 66
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: true
+  xy: 222, 189
+  size: 147, 64
+  orig: 148, 64
+  offset: 1, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 422, 50
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+flower2_1
+  rotate: true
+  xy: 349, 114
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+flower2_2
+  rotate: true
+  xy: 424, 107
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+flower2_3
+  rotate: false
+  xy: 164, 3
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+flower2_4
+  rotate: false
+  xy: 289, 2
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+flower2_5
+  rotate: false
+  xy: 224, 22
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+flower2_6
+  rotate: true
+  xy: 294, 106
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+flower2_h1
+  rotate: false
+  xy: 480, 50
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+flower2_h2
+  rotate: false
+  xy: 505, 371
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+flower2_h3
+  rotate: true
+  xy: 480, 77
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+flower3_1_1
+  rotate: true
+  xy: 374, 177
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flower3_1_2
+  rotate: true
+  xy: 457, 235
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+flower3_1_3
+  rotate: false
+  xy: 349, 65
+  size: 71, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+flower3_1_4
+  rotate: true
+  xy: 294, 54
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+flower3_1_5
+  rotate: false
+  xy: 222, 338
+  size: 87, 130
+  orig: 87, 132
+  offset: 0, 1
+  index: -1
+flower3_1_6
+  rotate: true
+  xy: 311, 317
+  size: 56, 94
+  orig: 57, 94
+  offset: 1, 0
+  index: -1
+flower3_1_7
+  rotate: false
+  xy: 311, 375
+  size: 85, 93
+  orig: 86, 93
+  offset: 1, 0
+  index: -1
+flower3_1_h1
+  rotate: true
+  xy: 505, 402
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+flower3_1_h2
+  rotate: false
+  xy: 2, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+flower3_1_h3
+  rotate: false
+  xy: 349, 2
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+flower3_1_h4
+  rotate: false
+  xy: 457, 177
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+flower3_1_h5
+  rotate: false
+  xy: 288, 190
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+flower3_2_1
+  rotate: false
+  xy: 288, 231
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+flower3_2_2
+  rotate: true
+  xy: 407, 313
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+flower3_2_3
+  rotate: true
+  xy: 222, 82
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+flower3_2_4
+  rotate: false
+  xy: 398, 386
+  size: 105, 71
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+flower3_2_5
+  rotate: true
+  xy: 371, 232
+  size: 79, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+flower3_2_6
+  rotate: true
+  xy: 444, 459
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+flower3_2_h1
+  rotate: true
+  xy: 463, 4
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+flower3_2_h2
+  rotate: false
+  xy: 498, 313
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+flower3_2_h3
+  rotate: false
+  xy: 498, 343
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+tree1
+  rotate: true
+  xy: 66, 4
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+tree2
+  rotate: false
+  xy: 407, 2
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: true
+  xy: 514, 85
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+tree4
+  rotate: false
+  xy: 469, 123
+  size: 45, 52
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+tree5
+  rotate: false
+  xy: 497, 6
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 514, 54
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 224, 2
+  size: 21, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 508, 199
+  size: 24, 34
+  orig: 24, 36
+  offset: 0, 0
+  index: -1

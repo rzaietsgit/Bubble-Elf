@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743033704200",
+    "project_id": "bubble-myth",
+    "storage_bucket": "bubble-myth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743033704200:android:fae7a1538d1d647ad6a6bd",
+        "android_client_info": {
+          "package_name": "com.bubble.pop.myth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743033704200-bia8fi4t3v8lmj9n8knat4nv7kgsg7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxH8WKPhpEyasT0elJyy38-Lgc-uyp4Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743033704200-bia8fi4t3v8lmj9n8knat4nv7kgsg7m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

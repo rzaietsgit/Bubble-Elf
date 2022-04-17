@@ -1,0 +1,27 @@
+
+mofa_bomb.png
+size: 56,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fen
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 95, 108
+  offset: 46, 11
+  index: -1
+images/shi
+  rotate: false
+  xy: 2, 34
+  size: 30, 20
+  orig: 95, 108
+  offset: 18, 28
+  index: -1
+images/zhongxin
+  rotate: false
+  xy: 34, 37
+  size: 16, 17
+  orig: 95, 108
+  offset: 41, 33
+  index: -1

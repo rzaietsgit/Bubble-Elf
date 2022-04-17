@@ -1,0 +1,14 @@
+public enum CandyState
+{
+	NONE,
+	MOVE,
+	MOVING,
+	MOVEEND,
+	DROP,
+	CHANGE,
+	REMOVE,
+	REMOVING,
+	REMOVEEND,
+	WAIT,
+	WAITREMOVE
+}

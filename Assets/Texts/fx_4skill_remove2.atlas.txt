@@ -1,0 +1,76 @@
+
+fx_4skill_remove2.png
+size: 887,887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_bai
+  rotate: false
+  xy: 2, 2
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_00
+  rotate: true
+  xy: 2, 68
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_01
+  rotate: false
+  xy: 351, 567
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_02
+  rotate: false
+  xy: 351, 247
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_03
+  rotate: false
+  xy: 528, 567
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_04
+  rotate: false
+  xy: 528, 247
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_05
+  rotate: false
+  xy: 705, 567
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_06
+  rotate: false
+  xy: 705, 247
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_di_07
+  rotate: true
+  xy: 351, 70
+  size: 175, 318
+  orig: 175, 318
+  offset: 0, 0
+  index: -1
+images/fx_caise_light
+  rotate: false
+  xy: 2, 245
+  size: 347, 640
+  orig: 347, 640
+  offset: 0, 0
+  index: -1

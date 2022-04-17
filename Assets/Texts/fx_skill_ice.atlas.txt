@@ -1,0 +1,90 @@
+
+fx_skill_ice.png
+size: 326,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_bing_00
+  rotate: true
+  xy: 2, 245
+  size: 79, 109
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_01
+  rotate: true
+  xy: 113, 245
+  size: 79, 109
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_02
+  rotate: true
+  xy: 2, 164
+  size: 79, 109
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_03
+  rotate: true
+  xy: 113, 164
+  size: 79, 109
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_04
+  rotate: true
+  xy: 2, 83
+  size: 79, 104
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_05
+  rotate: true
+  xy: 224, 245
+  size: 79, 92
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_06
+  rotate: true
+  xy: 224, 164
+  size: 79, 94
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_07
+  rotate: true
+  xy: 108, 83
+  size: 79, 98
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_08
+  rotate: true
+  xy: 208, 83
+  size: 79, 99
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_09
+  rotate: true
+  xy: 2, 2
+  size: 79, 102
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_10
+  rotate: true
+  xy: 106, 2
+  size: 79, 105
+  orig: 153, 153
+  offset: 37, 28
+  index: -1
+images/fx_bing_11
+  rotate: true
+  xy: 213, 2
+  size: 79, 109
+  orig: 153, 153
+  offset: 37, 28
+  index: -1

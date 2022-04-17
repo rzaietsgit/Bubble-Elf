@@ -1,0 +1,27 @@
+
+mofa_jian.png
+size: 86,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/star
+  rotate: false
+  xy: 54, 57
+  size: 28, 27
+  orig: 94, 94
+  offset: 36, 35
+  index: -1
+images/star_1
+  rotate: false
+  xy: 2, 34
+  size: 50, 50
+  orig: 94, 94
+  offset: 25, 24
+  index: -1
+images/yuan
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 94, 94
+  offset: 36, 35
+  index: -1
